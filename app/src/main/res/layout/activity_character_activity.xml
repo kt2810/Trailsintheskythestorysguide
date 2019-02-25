@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightBrown"
+    tools:context=".character_activity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/character_major_characters_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="32dp"
+                android:text="Major Characters:"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:textSize="50sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_estelle_link_to_page"
+                    android:layout_width="129dp"
+                    android:layout_height="137dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:clipOrientation="vertical"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:srcCompat="@drawable/ava_estelle_bright_cs4_trans" />
+                <TextView
+                    android:id="@+id/character_estelle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Estelle Bright"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_joshua_link_to_page"
+                    android:layout_width="129dp"
+                    android:layout_height="137dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:clipOrientation="vertical"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:srcCompat="@drawable/ava_joshua_bright_cs4_trans" />
+                <TextView
+                    android:id="@+id/character_joshua"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Joshua Bright"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_scherazard_link_to_page"
+                    android:layout_width="129dp"
+                    android:layout_height="137dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:clipOrientation="vertical"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:srcCompat="@drawable/ava_scherazard_harvey_cs4_trans" />
+                <TextView
+                    android:id="@+id/character_scherazard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Scherazard Harvey"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_olivert_link_to_page"
+                    android:layout_width="129dp"
+                    android:layout_height="137dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:clipOrientation="vertical"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:srcCompat="@drawable/ava_olivier_lenheim_cs3_trans" />
+                <TextView
+                    android:id="@+id/character_olivier"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Olivier Lenheim"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_zin_link_to_page"
+                    android:layout_width="129dp"
+                    android:layout_height="137dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:clipOrientation="vertical"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:srcCompat="@drawable/ava_zin_vathek_fc_evo" />
+                <TextView
+                    android:id="@+id/character_zin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Zin Vathek"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

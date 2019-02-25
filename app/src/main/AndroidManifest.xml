@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trailsintheskythestorysguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".organization_activity"></activity>
+        <activity
+            android:name=".character_activity"
+            android:label="Characters"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".country_crossbell"
+            android:label="Crossbell State"
+            android:parentActivityName=".country_activity" />
+        <activity
+            android:name=".country_erebonia"
+            android:label="Erebonia Empire"
+            android:parentActivityName=".country_activity" />
+        <activity
+            android:name=".country_calvard"
+            android:label="Republic of Calvard"
+            android:parentActivityName=".country_activity" />
+        <activity
+            android:name=".country_liberl"
+            android:label="Liberl"
+            android:parentActivityName=".country_activity" />
+        <activity
+            android:name=".title_3rd_page"
+            android:label="Trails in the Sky: The 3rd"
+            android:parentActivityName=".title_activity" />
+        <activity
+            android:name=".title_sc_page"
+            android:label="Trails in the Sky: SC"
+            android:parentActivityName=".title_activity" />
+        <activity
+            android:name=".title_fc_page"
+            android:label="Trails in the Sky: FC"
+            android:parentActivityName=".title_activity" />
+        <activity
+            android:name=".title_activity"
+            android:label="Titles"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".country_activity"
+            android:label="Countries"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".video_acitivity"
+            android:label="Video"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

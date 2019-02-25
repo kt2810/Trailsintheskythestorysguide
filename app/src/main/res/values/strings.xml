@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Trails in the sky: the story’s guide</string>
+    <string name="Bracer_mss_1">Bracer_message_1</string>
+    <string name="Bracer_mss_2">Bracer_message_2</string>
+    <string name="main_title_btn">Titles</string>
+    <string name="main_chars_btn">Characters</string>
+    <string name="main_countries_btn">Countries</string>
+    <string name="main_timeline_btn">Timeline</string>
+    <string name="main_org_btn">Organizations</string>
+    <string name="main_vid_btn">Videos</string>
+
+    <string name="Bracer_statement_1">This app is sponsored by
+        crown princess Kloe von Auslese of Liberl and created by ZCF.</string>
+    <string name="Bracer_statement_2">In recent years, Zemuria has gone through many major incidents.
+    This app is created in order to help Bracers, especially new Bracers,
+        to be informed with necessary information.\' notes and guides.</string>
+
+    <string name="title_sc_Summary">The Legend of Heroes: Trails in the Sky is first of Trails franchise.\n
+        The Japanese name of the game is Eiyuu Densetsu Shikusu: Sora no Kiseki FC for pc.\n
+        Let\'s explore what happens to Liberl of Zemuria continent in recent years.\n\n\n
+        Summary:\n\n
+        The story follows Estelle Bright and Joshua Bright, who just become junior Bracers from Liberl,
+        are on their quest to become senior Bracers. The condition is to go to each major region in Liberl
+        to earn recommendation letters from each Bracer Guild branch. In order to receive the letters, they must
+        fulfill citizens\' requests to show their capabilities.\n\n
+        However, their journeys are unlike any normal junior Bracers. The time they start their journeys was also
+        when the coup planned by ex-Colonel Alan Richard was set in motion and close to final step.\n\n
+        The Brights faced with many incidents that were rooted from the coup\'s plan in each region of Liberl,
+        but they were unable to notice the plan as it was carefully hidden in multiple layers.\n\n
+        During the kidnap incident of Prof. Albert Russell in Zeiss, together with C-rank bracer Agate Crosner,
+        they were able to identify Colonel Richard was the source of all incidents the Brights dealt with.
+        They also learnt the upcoming coup d\'teat would happen on the 60th Birthday Celebration of
+        Queen Alicia von Auslese in Grancel.\n\n
+        The Brights secretly informed the Guild to let every Bracer aware of the situation. However, under the
+        law of Bracer Guild, we were unable to officially counter the coup from happening.\n\n
+        The Liberl Intelligence Division was able to kidnap princess Klaudia von Aulese as she was returning to
+        Grancel to attend her grandmother\'s birthday, and the Royal Guard was accused of planning the coup
+        during this time. The Guild was able to obtain such information and quickly made an emergency
+        rescue mission at Erbe Royal Villa, where the princess was held in custody.\n
+        Due to the law of Bracer Guild, again, we were unable to act at first. But the Brights were able to
+        contact Capt. Schwarz of the Royal Guard to request a secret joint rescue mission between the Bracer Guild
+        and the Royal Guard. Thanks to the Royal Guard acted as the bait to lure most of Intelligence Division force
+        to the front of Erbe Royal Villa, the Bracers were able to infiltrate the villa without being noticed.\n
+        The mission was a success. We were able to locate the princess and took her under protection. After that,
+        the Royal Guard gained a foothold at Erbe Royal Villa to prepare for the coup. Princess Klaudia also requested
+        the Bracer Guild, as a citizen of Liberl, to stop the coup. Her action allowed us to legally counter
+        the Intelligence Division when the coup happened.\n\n
+        During the coup, the Royal Guards attacked the Intelligence Division directly while our bracers, Estelle Brights
+        and Schera Harvey, and princess Klaudia infiltrated the Grancel castle by an airship.
+        During this time, Queen Alicia was held under custody by 2nd Lt. Lorence of the Intelligence Division
+        while Colonel Richard and his men were at the bottom of the castle to prepare for their final objective.\n
+        The bracers and princess Klaudia were able to rescue Queen Alicia from 2nd Lt. Lorence.
+        However, the reason was he gave up his mission due to his true identity and objective were different
+        (More information in Trails in the Sky: SC).\n
+        The Brights and several Bracers fought against Colonel Richard at the underground of Grancel castle. They were
+        able to win against the Colonel, however, his plan was successful, which leaded to the attack from the Society
+        one month later. The purpose of the coup will be explained in SC.\n\n
+        S-rank bracer Cassius Bright returned to be Brigadier General of Liberl as he was during The Hundred Days War,
+        which left S-rank bracer position empty for a long time. Liberl\'s peace returned for a very short period of time
+        before the Society, Ouroboros, began their next step of Gospel Project.\n\n\n
+        Note:\n
+        Bracers who were involved in Liberl\'s coup incident: Estelle Bright, Joshua Bright, Schera Harvey, Agate Crosner,
+        Zin Vathek, Kurt Nardin, Carna, Grant, Anelace Elfead, Elnan, Cassius Bright.\n
+        Others who involved in Liberl\'s coup incident: Olivier Leinheim (Prince Olivert Reise Arnor of Erebonia).\n
+        Kloe Rinz (Princess Klaudia von Auslese of Liberl).
+        Nial Burns and Dorothy Hyayyt from Liberl News\n\n
+        Personal information that are revealed with consents from related parties:\n
+        Joshua Bright, adopted son of Cassius Bright, was Enforcer XII from the Society. He was manipulated by
+        Weissmann (Third Anguis of the Society) without knowing it. Joshua was Weissmann spy to observe Cassius Bright\'s
+        and the Guild. He revealed the truth to Joshua during Queen Alicia\'s Birthday Celebration, which caused
+        Joshua to left the Guild informally.
+    </string>
+    <string name="title_fc_Summary">STORY ID 11</string>
+    <string name="title_3rd_Summary">STORY ID 12</string>
+
+    <string name="country_liberl_summary">STORY ID 13</string>
+    <string name="country_calvard_summary">STORY ID 14</string>
+    <string name="country_erebonia_summary">STORY ID 15</string>
+    <string name="country_crossbell_summary">STORY ID 16</string>
+</resources>

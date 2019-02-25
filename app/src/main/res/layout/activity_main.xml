@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightBrown"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Bracer_mss_1"
+        android:layout_width="243dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/Bracer_statement_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Bracer_Emblem"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/Bracer_Emblem"
+        android:layout_width="157dp"
+        android:layout_height="138dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bracer_guild_emblem_trans" />
+
+    <TextView
+        android:id="@+id/Bracer_mss_2"
+        android:layout_width="240dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="@string/Bracer_statement_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toEndOf="@+id/Bracer_Emblem"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+
+        android:id="@+id/Estelle_CS4"
+        android:layout_width="400dp"
+        android:layout_height="627dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginLeft="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Bracer_mss_2"
+        app:srcCompat="@drawable/estelle_bright_cs4_trans" />
+
+    <LinearLayout
+
+        android:layout_width="157dp"
+        android:layout_height="322dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="32dp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Bracer_Emblem">
+
+        <Button
+            android:id="@+id/button_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_title_btn" />
+
+        <Button
+            android:id="@+id/button_character"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_chars_btn" />
+
+        <Button
+            android:id="@+id/button_country"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_countries_btn" />
+
+        <Button
+            android:id="@+id/button_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_timeline_btn" />
+
+        <Button
+            android:id="@+id/button_org"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_org_btn" />
+
+        <Button
+            android:id="@+id/button_vid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_vid_btn" />
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
+
+
