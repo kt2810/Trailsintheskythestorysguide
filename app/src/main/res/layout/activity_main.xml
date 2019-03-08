@@ -59,7 +59,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Bracer_mss_2"
-        app:srcCompat="@drawable/estelle_bright_cs4_trans" />
+        app:srcCompat="@drawable/estelle_bright" />
 
     <LinearLayout
 

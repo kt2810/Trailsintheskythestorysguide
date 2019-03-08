@@ -51,6 +51,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //timeline
+        button_timeline =findViewById(R.id.button_time);
+        button_timeline.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v){
+                open_timeline_activity();
+            }
+        });
+
+        //organization
+        button_organization =findViewById(R.id.button_org);
+        button_organization.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v){
+                open_organization_activity();
+            }
+        });
 
         //video
         button_vid =findViewById(R.id.button_vid);
@@ -73,6 +90,14 @@ public class MainActivity extends AppCompatActivity {
     }
     public void open_country_activity(){
         Intent intent = new Intent(this, country_activity.class);
+        startActivity(intent);
+    }
+    public void open_timeline_activity(){
+        Intent intent = new Intent(this, timeline.class);
+        startActivity(intent);
+    }
+    public void open_organization_activity(){
+        Intent intent = new Intent(this, organization_activity.class);
         startActivity(intent);
     }
     public void open_video_activity(){

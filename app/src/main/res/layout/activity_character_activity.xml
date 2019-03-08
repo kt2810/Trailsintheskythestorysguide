@@ -47,7 +47,7 @@
                     android:background="#FFCD00"
                     android:clipOrientation="vertical"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_estelle_bright_cs4_trans" />
+                    app:srcCompat="@drawable/ava_estelle_bright" />
                 <TextView
                     android:id="@+id/character_estelle"
                     android:layout_width="match_parent"
@@ -74,7 +74,7 @@
                     android:background="#FFCD00"
                     android:clipOrientation="vertical"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_joshua_bright_cs4_trans" />
+                    app:srcCompat="@drawable/ava_joshua_bright" />
                 <TextView
                     android:id="@+id/character_joshua"
                     android:layout_width="match_parent"
@@ -101,7 +101,7 @@
                     android:background="#FFCD00"
                     android:clipOrientation="vertical"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_scherazard_harvey_cs4_trans" />
+                    app:srcCompat="@drawable/ava_scherazard_harvey" />
                 <TextView
                     android:id="@+id/character_scherazard"
                     android:layout_width="match_parent"
@@ -128,7 +128,7 @@
                     android:background="#FFCD00"
                     android:clipOrientation="vertical"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_olivier_lenheim_cs3_trans" />
+                    app:srcCompat="@drawable/ava_olivier_lenheim" />
                 <TextView
                     android:id="@+id/character_olivier"
                     android:layout_width="match_parent"
@@ -155,7 +155,7 @@
                     android:background="#FFCD00"
                     android:clipOrientation="vertical"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_zin_vathek_fc_evo" />
+                    app:srcCompat="@drawable/ava_zin_vathek" />
                 <TextView
                     android:id="@+id/character_zin"
                     android:layout_width="match_parent"

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/lightBrown"
-    tools:context=".country_liberl">
+    tools:context=".bracer_guild">
 
     <ScrollView
         android:id="@+id/scrollView1"
@@ -25,13 +25,14 @@
                 android:layout_height="200dp"
                 android:layout_marginTop="8dp"
                 android:layout_gravity="center"
-                app:srcCompat="@drawable/liberl_emblem" />
+                app:srcCompat="@drawable/bracer_guild_emblem_trans" />
 
             <TextView
+                android:id="@+id/a_b_g_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="Liberl Kingdom"
+                android:text="Bracer Guild"
                 android:textSize="30sp"
                 android:textAlignment="center" />
 
@@ -41,9 +42,10 @@
                 android:layout_marginTop="20dp"
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
-                android:text="@string/country_liberl_summary"
-                android:textSize="25sp" />
-
+                android:text="@string/bracer_guild_description"
+                android:textSize="25sp"/>
         </LinearLayout>
     </ScrollView>
+
+
 </android.support.constraint.ConstraintLayout>

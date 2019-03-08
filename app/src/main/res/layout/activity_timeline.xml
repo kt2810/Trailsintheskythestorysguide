@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightBrown"
+    tools:context=".timeline">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/timeline_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Timeline"
+                android:textSize="50sp"
+                android:fontFamily="sans-serif"
+                android:textAlignment="center"/>
+
+            <TextView
+                android:id="@+id/TL_txtviewIntro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="@string/TL_txtviewIntro"
+                android:textSize="25sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/timeline_title" />
+
+            <TextView
+                android:id="@+id/TL_txtview2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="32dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="@string/TL_txtview2"
+                android:textSize="25sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TL_txtviewIntro" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:stretchColumns="1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TL_txtview2">
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/darker_gray"
+                        android:padding="3dp"
+                        android:text="Year"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/darker_gray"
+                        android:padding="3dp"
+                        android:text="Event"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="82"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year82"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="200"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year200"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="Before 500"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year_B500"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="After 500"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year_A500"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1100"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1100"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1150"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1150"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1162"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1162"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1192"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1192w"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1192"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1192"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1196"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1196"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1201"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1201"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1202"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1202"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="1203"
+                        android:textAlignment="center"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="158dp"
+                        android:background="@android:color/holo_blue_light"
+                        android:padding="3dp"
+                        android:text="@string/TL_year1203"
+                        android:textSize="20sp" />
+                </TableRow>
+            </TableLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

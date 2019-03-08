@@ -73,8 +73,225 @@
     <string name="title_fc_Summary">STORY ID 11</string>
     <string name="title_3rd_Summary">STORY ID 12</string>
 
-    <string name="country_liberl_summary">STORY ID 13</string>
-    <string name="country_calvard_summary">STORY ID 14</string>
-    <string name="country_erebonia_summary">STORY ID 15</string>
-    <string name="country_crossbell_summary">STORY ID 16</string>
+    <string name="country_liberl_summary">The Liberl Kingdom is located in southwestern Zemuria. Its mainland is
+        bordered to the south by the Thetis Sea and to the west by an unnamed ocean; to the north by Erebonia;
+        and to the east by Calvard. Its crest is a white falcon.\n
+        The name Liberl comes from the Liber Ark, the floating city governed by Sept-terion Aureole during
+        the ancient time of Zemuria.\n\n
+        The collapse of Liber Ark:\n
+        -   The Liber Ark is a floating island city that brings prosperity to its citizens.\n
+        -   However, over time, the reliance on the Aureole led to a decline in morals and ethics.\n
+        -   As the result, madness and despair were spread all over the population.\n
+        -   Celeste D von Auslese decided to end their reliance on the Aureole.\n
+        -   However, Aureole resisted and treated them as enemies to prevent Liber Ark\'s destruction.\n
+        -   Celeste D von Auslese succeeded in sealing both Aureole and Liber Ark in a different dimension.\n
+        -   Celeste established the Liberl Kingdom in approzimately S.1\n\n
+        The modern era:\n
+        -   The clash between aristocrats and commoners reached climax after 100 years since the founded day.\n
+        -   Princess Cecilia was responsible for abolishing the difference in classes in Liberl.\n
+        -   Aristocracy still exists in a very small portion and uncommon in Liberl nowadays.\n\n
+        Hundred Days War:\n
+        -   In spring S.1192, Imperial Army of Erebonia started invading Liberl.\n
+        -   Liberl was losing fast due to Imperial Army\'s blitz strategy.\n
+        -   Liberl turned the table with the large scale counter-attack by using newly-developed patrol ships.\n
+        -   In S.1193, a peace treaty was signed by Liberl and Erebonia, which marks the end of the Hundred Days War.\n
+        (Warning: the followings are top secret international information that must not be revealed to the public)\n
+        -   The cause of war: a massacre at night of Hamel village of Erebonia, which was located near
+            the border between two countries.\n
+        -   There was sight of perpetrators wearing Liberl Army uniform and using Liber\'s weapons.\n
+        -   The Hamel incident is buried to the darkness because there was no survivor and there\'s possibly
+            a third party that caused the massacre.\n
+        -   It was revealed by Anguis III of Ouroboros, Georg Weissmann that he was the one suggested
+            to an unknown party to cause the Hamel incident.\n\n
+        Coup d\'etat:\n
+        -   In S.1202, Colonel Alan Richard of the Royal Army\'s Intelligence Division attempted a coup.\n
+        -   He was stopped by a joint force between the Royal Guardsmen, the Bracer Guild, ZCF, and princess Claudia.\n
+        -   The true perpetrator was Georg Weissmann of the Society.\n
+        -   The coup was prevented, however, the Gospel Plan of the Society was a success, which later led to the
+            Orbal Shutdown Phenomenon.\n\n
+        Orbal Shutdown Phenomenon:\n
+        -   In S.1203, a country-wide Orbal Shutdown Phenomenon occurred, which disabled all orbal devices and caused
+            a mass panic.\n
+        -   The phenomenon also affected south of Erebonia, which caused the Imperial Army almost breached the
+            Hanken Gate again.\n
+        -   Thanks to Princess Klaudia of Liberl, the bracers and Prince Olivier of Erebonia,
+            the Imperial Army halted their
+            advancement temporarily and allowed Liberl Army and Bracers some time to stop the phenomenon.\n
+        -   Liber Ark collapsed and the phenomenon was prevented.\n
+        -   S-rank bracer Cassius Bright retired and returned to his previous position as commander of Royal Army
+            of Liberl.\n
+        Interntional event:\n
+        -   Before the Orbal Shutdown Phenomenon, Queen Alicia managed to host a Non-Aggression Pact between Liberl,
+            Erebonia, and Calvard.\n
+    </string>
+    <string name="country_calvard_summary">The Republic of Calvard is located in the western Zemuria. It is \n
+        bordered to the southwest by Liberl, to the west by Erebonia and Crossbell; to the northwest by \n
+        Remiferia; and to the east by Ored.\n\n
+        It was founded in S.1090 and is famous for its immigration policy that allows people from the East to live
+        in Calvard.\n\n
+        Republican revolution:\n
+        -   Around S.1100, the country was struck with a financial disaster.\n
+        -   Merchants from East Zemuria financially supported the revolution to overthrow the ruling monarchy.\n
+        -   In S.1187, the passenger ship Eterna sank in Calvardian waters, resulted the dead of Crown Prince
+            Judis von Auslese and his wife.\n\n
+        Hundred Days War:\n
+        -   During the war, Calvard was unable to quickly support its neighbor country, Liberl, against Erebonia\'s
+            blitz strategy.\n
+        Relationship with Erebonia:\n
+        -   Their relationship gets worse after the completion of the orbal railgun cannons at Garrelia Fortress, located
+            at easternmost border of Erebonia.\n
+        -   Even after the successful Non-Aggression Pact hosted in Liberl, their relationship is still far from good.\n\n
+        </string>
+    <string name="country_erebonia_summary">The Erebonia Empire is located in western Zemuria. It is bordered to
+        the east by Calvard and to the south by Liberl.\n\n
+        War of the Lions:\n
+        -   The death of emperor Valius V in S.947 and the assassination of his son, the fourth prince Orthos
+            seizes power in a military coupe of Heimdallr and declares himself the new emeperor.\n
+        -   Orthos declares to purge anyone who dares to oppose him which accelerate the civil war.\n
+        -   Prince Dreichels started raising an army and departs from Nord Highlands, hoping to end the war and to
+            bring back the peace of Erebonians.\n
+        -   Dreichels brought the end to Orthos\' tyranny and became the new emperor of Erebonia.\n\n
+        Border disputes:\n
+        -   Both Erebonia and Calvard grew rapidly and became two most powerful nations in Zemuria.\n
+        -   Their growths also means the expansion of territories.\n
+        -   The territory that both sides try to get is later established as Crossbell State.\n\n
+        Hundred Days War:\n
+        -   The lost of Hamel led Erebonia to declare war on Liberl Kingdom.\n
+        -   Thanks to the manpower and blitz strategy, they advanced extremely fast and Liberl was likely to lose at any time.\n
+        -   Liberl counter attacked with patrol ships and pushed Imperial Army out of the country.\n
+        -   Erebonia signed the peace treaty and apologized to Liberl.\n
+        -   Gilliath Osborne was promoted to chancellor of blood and iron.\n\n
+    </string>
+    <string name="country_crossbell_summary">Crossbell State, formerly known as Corssbell Province, is a lanlocked,
+        self-governing demilitarised buffer state located in wester Zemuria. It is bordered by Erebonia to the west and
+        by Calvard to the east.\n\n
+        There are a lot of mysteries surrounding Crossbell dated back to the Dark Ages. Specifically the ancient bells
+        that are located in several location in Crossbell States.\n
+        The state has a very complex situation. Erebonia and Calvard have been hostile to each other for the ownership of
+        Crossbell province. Crossbell State was established in S.1137I to prevent the bloodshed between them. In a sense,
+        some can say it is a share property of both Erebonia and Calvard.\n
+        In the present, Crossbell State is growing extremely fast due to its location allows trades between two super nations
+        Erebonia and Calvard</string>
+
+    <string name="TL_txtviewIntro">The Zemuria continent follows the Septian Calendar
+        to the present day.\n
+        Note that the timeline in this guide is incomplete. It only shows the major events that are
+        considered necessary and related for Liberl\'s bracers.\n
+        The history is divided into 3 eras:\n
+        1. After the Septian Calendar (1~500AS).\n
+        2. After the Dark Ages (500~1100AD).\n
+        3. After the Orbal Revolution (1150AR~).\n
+    </string>
+    <string name="TL_txtview2">Before the Septian Calendar is the era which is told that Gods fought and
+        mutually killed each other after a 100 days struggle.\n
+        The Sky Goddess, Aidios, gave humanity the Sept-Terrion, seven sacred treasures which
+        granted dominion over the land, skies, and seas. They were eventually separated dividing humanity
+        to pursue the respective ideals. </string>
+    <string name="TL_year1">The Great Collapese brought the end of the ancient Zemurian civilization.\n
+        Celeste D. Auslese sealed the Aureole in another dimension with the floating city, Liber Ark.
+        Liberl Kingdom was founded below after.\n
+        Around 1 - 500AS, Erebonia Empire was founded.
+    </string>
+    <string name="TL_year82">The Grancel Cathedral was built in the kingdom\'s capital.</string>
+    <string name="TL_year200">The Order of the Gralsritter was founded.</string>
+    <string name="TL_year_B500">The Dark Ages began.</string>
+    <string name="TL_year_A500">The Septian Church appeared as Aidios religion, ending the Dark Ages.</string>
+    <string name="TL_year1100">Liberl\'s decree of nobility has been abolished.\n
+        The Calvard Republic was born.</string>
+    <string name="TL_year1150">The Orbal Revolution started after Professor C.Epstein invented
+        the first orbment.\n Bracer Guild was founded.</string>
+    <string name="TL_year1162">Princess Alicia II inherited the throne at the age of 20 after
+        king Edgar III\'s death.</string>
+    <string name="TL_year1192w">WARNING: Any information about Hamel Village is international top secret.
+        Bracers must not reveal this information to any unrelated party to prevent the continuation of
+        the Hundred Days War.\n
+    </string>
+    <string name="TL_year1192">Tragedy occurred at Hamel Village, which was near the border between
+        Erebonia Empire and Liberl Kingdom. The Hundred Days War started during spring after.\n
+        The Imperial Army of Erebonia declared war and immediately attacked Liberl.\n
+        2 months later, Albert Russell developed military patrolships. This allowed Liberl to
+        counter attacked the Imperial Army.\n
+        The ceasefire was agreed between Liberl and Erebonia. The Hamel incident was buried in the darkness.\n
+        The Hamel incident led Leonhardt and Joshua to join the Ouroboros.
+    </string>
+    <string name="TL_year1196">Renne Haywworth was abducted in Calvard Republic.
+        Later rescued by Ouroboros. Renne joined Ouroboros.</string>
+    <string name="TL_year1201">The Liberl Intelligence Division was established.</string>
+    <string name="TL_year1202">Erebonian Bracer Guilds were attacked.\n
+        Cassius Bright was requested to solve the incident.\n
+        Liberlian airship, Linde, was attacked by Sky Bandit and gone missing.\n
+        Junior bracers Estelle and Joshua Bright began their adventure in Liberl.\n
+        The 60th annual Queen\'s Birthday.\n
+        A non-aggression pact was signed in Liberl, between Liberl, Calvard, and Erebonia.</string>
+    <string name="TL_year1203">The Orbal Shutdown Phenomenon caused nationwide panic in Liberl.\n
+        Erebonia Empire army was in the verge of invading Liberl again because
+        the phenomenon affected south Erebonia.\n
+        Kevin Graham and Ries Argent recovered an ancient artifact from the collapsed Liber Ark.</string>
+
+    <string name="bracer_guild_description">Bracer Guild is an international non-governmental organisation
+        acting to keep the peace and protect civilians. Its members are called bracers.\n
+        Due to its international and neutral nature, it often mediates between disputing powers from small to
+        large scale. Such as the Hundred Days War, the coup in Liberl, and the Orbal Shutdown Phenomenon.
+        However, at the same time, Bracer Guild\'s activities can be severely limited for its Guild Code.\n\n
+        Guild Code contains laws that bracer guild and all bracers must follow. Simply put, bracers are not allowed
+        to involve and interfere in any nation\'s dispute when no harm is likely to happen to civilians.\n
+        However, the loophole in the Guild Code can be used to allow Bracers to act immediately. During the coup, a
+        citizen\'s request can allow Bracer Guild to act immediately to protect citizens from harm.</string>
+    <string name="gralsritter_description">The Gralsritter is an order within the Septian Church, responsible
+        for the investigation and retrieval of ancient Zemurian artifacts.\n\n
+        There are 6 principles Gralsritter must follow:\n
+        -   Offer your soul to Goddess and your body to Her church.\n
+        -   Protect the Sacraments.\n
+        -   Swear loyalty to the Holy Father.\n
+        -   Carry out your duties with dignity.\n
+        -   Protect the peace and order of the three worlds.\n
+        -   Heretics must be eliminated.\n\n
+        Knight is a promoted class among the Gralsritter of the Septian Church. They are also tasked to
+        support the Dominion they have been assigned to.\n\n
+        Squire is a base class among the Gralsritter of the Septian Church.</string>
+    <string name="dominion_description">Dominion has 12 special knights among the Gralsritter and acts as
+        the organization leaders. The Dominion have been active for about a thousand years. A manifestation
+        of a Stigma is required in order to be promoted to the rank of Dominion.\n</string>
+    <string name="epstein_foundation_description">Epstein Foundation is dedicated to spread orbal technologies
+        across Zemuria. It was found by the disciples of C.Epstein (father of orbal technology) after his death.\n
+        The Epstein Foundation researches and manufactures orbments, specialising in information processing and
+        communication.</string>
+    <string name="zcf_description">Zeiss Central Factory (ZCF) is an orbment research facility located in Liberl.\n
+        Initially, Albert Russell (a disciple of C.Epstein) formed a partnership with Zeiss Clockmaker\'s Union.\n
+        Together, they establish the Zeiss Engineering Factory in S.1157 and created orbment outside of
+        Epstein Foundation.\n
+        In S.1160, King Edgar III of Liberl visited the factory and decided to donate a large amount of
+        money to further its research. Thanks to King Edgar III, orbments began to spread like wildfire
+        across the kingdom, bringing prosperity to the people of Liberl.\n
+        In S.1173, Zeiss Engineering Factory is renamed to Zeiss Central Factory.\n
+        In S.1182, Albert Russell resigned from his position as Factory Chief.\n
+        In S.1190, ZCF publicly announced the Orbal Network, a joint venture between ZCF and the
+        Epstein Foundation.</string>
+    <string name="ouroboros_description">Ouroboros, also known as the Society, is a mysterious organization
+        that operates from the shadows in Zemuria.\n
+        With its access to powerful, talented agents, and the latest technological advances that surpass any
+        cutting edge technologies in Zemuria, it is involved in many major incidents that occur in Zemuria.\n
+        It is unknown when Ouroboros was founded. The earliest record date back to S.1192, prior the Hundred
+        Days War, but it is generally assumed that the Society has existed far longer than that.\n\n
+        Gospel Plan:\n
+        -   Their first publicly involvement is the coup led by Alan Richard in Liberl. The coup was a part of the
+        Gospel Plan, that later caused the Liber Arc from the Dark Ages to reappeared in Liberl which caused
+        Orbal Shutdown Phenomenon.\n
+        -   The main objective of the Gospel Plan was to obtain Aureole, the Sept-Terrion
+        of Space that controls the Liber Arc.\n
+        -   The plan was guided by the third Anguis of the Society, Georg Weissmann.\n
+        -   Georg Weissmann revealed that he was the mastermind that indirectly caused the Hundred Days War.\n\n
+        In Trails in the Sky: The 3rd, it was revealed in the last secret door that Gospel Plan was just the first
+        phase of Orpheus Final Plan, the main plan of the Society. After the Liber Arc incident, the Society is
+        ready for the second phase, the Phantasmal Blaze Plan.\n\n
+        Hierarchy:\n
+        -   Grandmaster\n
+        -   Anguis I, Campanella\n
+        -   Anguis II - VII\n
+        -   Enforcers\n
+        -   Jaegers (mainly Red Constellation)
+
+    </string>
+
+
 </resources>
