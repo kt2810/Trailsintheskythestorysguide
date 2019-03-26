@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/lightBrown"
-    tools:context=".intelligence_division_liberl">
+    tools:context=".location_hamel">
 
     <ScrollView
         android:id="@+id/scrollView1"
@@ -25,13 +25,13 @@
                 android:layout_height="200dp"
                 android:layout_marginTop="8dp"
                 android:layout_gravity="center"
-                app:srcCompat="@drawable/intelligence_division_liberl" />
+                app:srcCompat="@drawable/hamel_village" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="Intelligence Division(Liberl)"
+                android:text="Hamel Village"
                 android:textSize="30sp"
                 android:textAlignment="center" />
 
@@ -41,7 +41,7 @@
                 android:layout_marginTop="20dp"
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
-                android:text="@string/intelligence_divison_liberl_description"
+                android:text="@string/location_hamel_summary"
                 android:textSize="25sp"/>
 
         </LinearLayout>

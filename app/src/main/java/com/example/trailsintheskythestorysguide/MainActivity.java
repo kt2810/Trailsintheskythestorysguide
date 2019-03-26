@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        button_country =findViewById(R.id.button_country);
+        button_country =findViewById(R.id.button_location);
         button_country.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v){

@@ -15,7 +15,7 @@
     This app is created in order to help Bracers, especially new Bracers,
         to be informed with necessary information.\' notes and guides.</string>
 
-    <string name="title_sc_Summary">The Legend of Heroes: Trails in the Sky is first of Trails franchise.\n
+    <string name="title_fc_Summary">The Legend of Heroes: Trails in the Sky is first of Trails franchise.\n
         The Japanese name of the game is Eiyuu Densetsu Shikusu: Sora no Kiseki FC for pc.\n
         Let\'s explore what happens to Liberl of Zemuria continent in recent years.\n\n\n
         Summary:\n\n
@@ -70,8 +70,333 @@
         and the Guild. He revealed the truth to Joshua during Queen Alicia\'s Birthday Celebration, which caused
         Joshua to left the Guild informally.
     </string>
-    <string name="title_fc_Summary">STORY ID 11</string>
-    <string name="title_3rd_Summary">STORY ID 12</string>
+    <string name="title_sc_Summary">
+        Trails in the Sky SC is the second installment in the Trails series and the second installment of the Liberl arc.\n\n
+        After Joshua left Estelle at the end of FC, she was heart-broken and lied to herself that Joshua just went back
+        home in Rolent. On her way back via airship, she met a strange travelling priest of Septian Church,\n
+        called Kevin Graham, who doesn\'t act like one at all. It was thanks to Kevin that Estelle accepted the truth that
+        Joshua left her and will never come home again. With the help of her father (Cassius Bright) and
+        her mentor (Scherazard Harvey), Estelle moved Le Locle in Leman for a special training camp for bracers.\n
+        At Le Locle, Estelle met Anelace Elfead again and trained together over two months.\n
+        Meanwhile, Julia Schwarz escorts Kevin to the sealed facility under Grancel and shows him the remnants of the
+        Reverie. He comments that he has seen something like this before in Calvard.\n
+        After the training, Estelle and Anelace becomes friendly rival. They return to Grancel together. Enal requests
+        them to investigate the Society by solving strange cases that are happening all over Liberl. Estelle can choose
+        to tag with Schera or Agate to investigate in Ruan. (Let\'s assume Estelle tags with Schera).\n
+        The society, Ouroboros, is preparing for the next phaase of Gospel Plan. It was revealed the a jaegar group,
+        called Jester, which was trained under Loewe, was annihilated in Erebonia by Cassius Bright. But Jester had
+        accomplished their mission, to get Cassius outside of Liberl during FC.\n
+        Joshua secretly works with Capua family to help them steal back the Bob Cat, Capua\'s airship. While they
+        are on their way to reach the Bob Cat, they visit the remain of Hamel.\n\n
+
+        Chapter 1: Sneaking Shadows\n
+        -   Estelle returns to Ruan.\n
+        -   Estelle met several old friends: Kloe, Olivier.\n
+        -   Kloe confesses that she\'s in love with Joshua. Estelle and Kloe remains friend even closer than before.\n
+        -   As a team of four, they investigate the case of a mystery floating ghost, which has been reported by several
+            residents in the whole region.\n
+        -   During the investigation, they meet a happy family with their young daughter named Renne.\n
+        -   The party meets Kevin who is teaching the orphans at Sunday School.\n
+        -   The identity of the ghost was Enforcer X, the Phantom Thief, named Bleublanc.\n
+        -   It was thanks to Dorothy with her camera to save the party from Bleublanc\'s shadow bind.\n
+        -   The party manages to solve the ghost incident but Bleublanc left because he has accomplished his mission.\n
+        -   At the end of chapter, it was revealed that father Kevin is also investigating the Ouroboros.\n\n
+        Chapter 2: The Raging Land\n
+        -   This chapter takes place in Zeiss.\n
+        -   The mystery case is about the unnatural earthquakes.\n
+        -   The team learns that there\'s a man wearing black clothes and sunglasses appears at locations where the
+            earthquake happens.\n
+        -   The party meets Tita Russell again. She joins the party. The party also meets Agate and Anelace for a short period of time.\n
+        -   The party manages to locate the next possible location for earthquake, the cave near Elmo at the hot springs.\n
+        -   This time, the party faces a new enemy of the Society, Enforcer VIII, The Direwolf, named Walter. He fought the
+            entire party effortlessly. Fortunately, Zin Vathek arrives to save the day. It turns out that Walter studied under the
+            same master a long time ago: Kilika\'s father.\n
+        -   At the end of the chapter, Kanone is plotting to free Colonel Richard.\n\n
+        Chapter 3: The Mad Tea Party\n
+        -   The chapter takes place in Grancel.\n
+        -   A major event is going to take place in Grancel, the discuss of a non-aggression pact and copies of Liberl\'s
+            best airship, Arseille to both Erebonia and Calvard.\n
+        -   This time, Kanone is preparing to attack Grancel and demands the release of Colonel Richard.\n
+        -   The party meets Duke Dunan at Erbe Royal Villa. He is still bitter about what happened at the end of FC.\n
+        -   The party meets Renne again and learns that her parents are nowhere to be found. It is also possible that Renne
+            was abandoned. So the party keeps Renne with them until they can find her parents.\n
+        -   Meanwhile, the party is helping the government to make sure the event goes smoothly.\n
+        -   Anelace and Agate found a hideout of several runaway members of Intelligence Division and fought them.\n
+        -   Enforcer 0, The Fool, Campanella shows his face to Agate and Anelace and burns ID\'s members to dead. However,
+            all of the ID\'s members were not humans but robots. Agate and Anelace learn about a "Tea Party" which is going
+            to happen soon.\n
+        -   In a different place, the Capuas and Joshua destroys those robot soldiers and also learn about the Tea Party.\n
+        -   Late afternoon of the second day, Renne told Estelle that a boy whom Renne describes just like Joshua, asked her
+            to give Estelle a letter. The letter asks Estelle to meet Joshua at Gurune Gate.\n
+        -   Estelle arrives to find Kevin, who also received a similar letter. It turns out to be a trap from the Society, they
+            were attacked by a powerful robot from Society, Archaisms.\n
+        -   Estelle and Kevin hurries back to the guild after they defeated the Archaisms. They find everyone in the Guild is
+            drugged by a strong sleeping bills and there is no life threatening situation. But Renne is nowhere to be found.\n
+        -   Agate comes not long after the incident and joins the party to save Duke Dunnan from Kanone
+            by the request of his butler, Philip.\n
+        -   Kanone and several ID\'s members piloting a tank equipped with a Gospel device that disable all orbment devices in
+            Grancel. Kevin used the Artifact that Mayor Dalmore used to temporarily shutdown the Gospel. Julia joins the party
+            to fight the tank.\n
+        -   It turns out that Kanone was played by enforcer XV, the Angel of Slaughter, Renne. And the whole attempt to save Colonel
+            Richard and the Gospel device activated in Grancel are her Tea Party. It was revealed that Renne\'s parents are faked,
+            and she has a giant robot called Pater-Mater as her true parent. Renne says farewell and leaves without fighting.\n
+        -   Kevin reveals that he is a squire in an order of the Church called the Gralsritter. He shares what he has been doing in
+            Liberl in the name of Septian Church.\n
+        -   While Kanone is being questioned, Casiuss Bright let Colonel Richard to meet her. Richard apologizes to Kanone,
+            saying that his pride led to the ruin of so many people, hers included. He thanks her for doing everything for him
+            but it is time for her to let it go. He has accepted full responsibility for everything and his fight is over.\n
+        -   At an Ouroboros base, Renne seems to have good relationship with Loewe. She said the Tea Party was boring because she
+            did not kill anyone. She wants Joshua to return to Ouroboros, and Weissmann says it is Estelle who is preventing
+            Joshua to return.\n
+        -   Before the party leaves to Ruan, Estelle receives a photo from Dorothy, showing Joshua was on the deck of the Bobcat while
+            it was escaping from Liberl army.\n
+        -   During the heist, it was revealed that Josette has a crush on Joshua, and Mueller (Olivier\' bodyguard) learns that
+            Joshua is a Hamel\'s survivor.\n\n
+        Chapter 4: The Mist Demon\'s Target\n
+        -   The airship, which the party is onboard, is forced to land in Rolent due to unusual heavy fog.\n
+        -   The fog is making residents worry more and more when there are several residents fall asleep and never wake up.\n
+        -   The party also notices a strange bell ringing right before someone falls asleep.\n
+        -   The culprit is enforcer VI, the Bewitching Bell, Luciola. Luciola was like a sister to Schera when Schera was in the
+            circus called the Harvey Troupe. Schera\'s last name comes from the name Harvey from the troupe. It is unknown at
+            this point why Luciola abandoned Schera and joined the Ouroboros, but Luciola provokes Schera to find the truth by
+            chasing her.\n
+        -   Before the party fights Luciola, they fell asleep by Luciola\'s power. When Estelle is sleeping, she dreams about
+            her old time together with her mother who was still alive before the Hundred Days War. It was a happy dream but she
+            later realizes that it was all the dream and she needs to move on and finds Joshua. Her mother says she\'s based on
+            Estelle\'s real mother and everything happening right now is just a dream. Estelle\'s mother says she loves her and hopes
+            Estelle to become strong and be happy.\n
+        -   The incident is solved. The mist is gone, and the victims wake up from their dreams.\n\n
+        Chapter 5: That Which One Must Protect\n
+        -   The chapter takes place in Bose.\n
+        -   Weissmann causes a dragon in the old legend of Liberl, Ragnard, to go crazy. It was thanks to Loewe who tries to stop his
+            craziness. However, the damage is large.\n
+        -   It was revealed that Agate used to have a younger sister named Mischa. Mischa died during Erebonia\'s attacks in
+            the Hundred Days War. Her dead has been a trauma and a source of rage for Agate.\n
+        -   Agate has a score to deal with Loewe so he is chasing after Loewe after the dragon wrecks havoc in Bose market.\n
+        -   Loewe beats Agate while criticizing him for swinging his blade aimlessly. Tita manages to stop Loewe from killing Agate.\n
+        -   General Morgan and his men come to capture Loewe and Ragnard but both of them fly away.\n
+        -   Thanks to Tita taking care of Agate, he manages to overcome his pain, stop blaming himself for Mischa\'s dead,
+        and lives.\n
+        -   The party leaves Tita and Agate behind to board the Arseille to bring down Ragnard.\n
+        -   The Ragnard is taken down and falls to the sea. However, the Gospel device on its head activated and causes it
+            to go crazy and escape.\n
+        -   In t second attempt to capture Ragnard, Agate\'s sword is equipped with a prototype unit of a device that can
+        destroy Gospel device\'s function.\n
+        -   The party destroys the Gospel device and frees Ragnard. Ragnard reveals that he is indeed the dragon in the legend.
+            However, he cannot provide support to Liberl because of his promise with Aidios to simply watch over where Aureole sleeps
+            and not to interfere in the lives of men. He also mentions that Cassius Bright was the last man he spoke with before
+            taking his recent twenty year nap.\n
+        -   Afterward, Agate and Tita stop by Ravennue to pay their respect to Mischa\'s grave and see general Morgan and
+            even Loewe both have the same idea. General Morgain comes every year out of regret for the lives he was unable
+            to save during the war. Loewe is there because both him and Agate lost their loved ones in the war. Loewe leaves
+            peacefully, but he mentions the name Hamel which shocks Morgan.\n\n
+        Chapter 6: The Whereabouts of Bonds\n
+        -   Joshua uses the Bobcat to invade on an Ouroboros gunship to sneak into the Glorious. The contract between him and
+            the Capuas is completed.\n
+        -   While the party is taking a short break at Valleria Lake with Kevin, they found the injured Kurt on a boat. Kurt
+            is awake and recovers his memory thanks to Kevin. He informs that he and several Bracers found a hideout of
+            Ouroboros nearby. Only he managed to escape to report.\n
+        -   The party sneaks into the Ouroboros hideout and rescue other Bracers, including Anelace. However, there is a trap
+            on the top floor. Weissmann captured Estelle while the party was unconscious.\n
+        -   Estelle found herself awake in the Glorious. Weissmann and Renne want her to join the Society, so Estelle can
+            become stronger and be together with Joshua again.\n
+        -   Estelle thinks deeply about it and decides to escape. Estelle is surrounded by jaegars in red but Joshua comes to
+            rescue her. Loewe comes to stop them but Joshua declares that he has planted bombs all over the Glorious. So Loewe
+            let them leave while trying to disable the bombs. They are stopped by Campanella at the hangar, however, he only
+            wants to make their escape difficult because he is just an observer.\n\n
+        Chapter 7: The Tetracyclic Towers\n
+        -   Joshua and Estelle manages to escape the Glorious on an airship. However, they are being chased by gunships from
+            the Glorious. But the Bobcat appears to make a surprise attack on the gunships and helps them escape.\n
+        -   They manage to land down safely. Estelle is finally able to meet Joshua again brings him back home.\n
+        -   Back to Grancel castle, Queen Alicia tells the tragic of Hamel and apologizes to Joshua. Joshua forgives her and
+            he believes that is a sane decision a leader must make.\n
+        -   Joshua has a secret talk with Kevin.\n
+        -   The party learns that Duke Dunan is starting to develop into a responsible adult, helping Queen Alicia and
+            Kloe. People start to respect him and change their opinion about him.\n
+        -   Olivier leaves to return to the Empire.\n
+        -   There are reports of a strange phenomenon happening at the four towers. The party is allowed to take the
+            Arseille to investigate. At each tower, the inside turns into a very large dimension. On their way to the top,
+            they find corrupted date from the Dark Ages. Each tower is responsible for each enforcer the party met during SC.\n
+        -   After Walter is beaten, Kilika breaks up the solo fight between him and Zin. The party also learns that Walter and
+            Kilika used to be lover, and Walter killed his former master (Kilika\'s father) in a duel.\n
+        -   After Luciola is beaten, she reveals that the master of Harvey Troupe did not die in an accident, she killed him.\n
+        -   Estelle tries to reason with Renne. Facing Estelle makes Renne confused, which she has not experienced for a long time.
+            Renne refuses to talk to Estelle and calls Pater-Mater to fight the party. Renne reveals that her parents left her
+            bad strangers and promised to come back for her but they never did. Renne had seen many other children died in her
+            childhood. It was thanks to Loewe and Joshua came to rescue her that she\'s now still alive and is an enforcer.\n
+        -   After Estelle fails to help Renne, she is more determined to not giving up on Renne.\n
+        -   While professor Russell is analyzing the data from the towers, the Liber Ark suddenly appears. He forces the Arseille to
+            land immediately. His fear becomes true when the Liber Ark causes the Orbal Shutdown Phenomenon across the entire Liberl.
+            Unfortunately for Bobcat, it was crashed on the top of Liber Ark.\n\n
+        Chapter 8: The Land of Chaos\n
+        -   The Orbal Shutdown Phenomenon causes a major panic. Your party splits off to handle the situation.\n
+        -   Estelle is assigned to give anti-Gospel devices to Bracer Guild branches to recover communication.\n
+        -   In Ruan, Gilbert and several red jaegars attacks Jenis Academy to find Kloe. They were defeated by many bracers.\n
+        -   After delivering the last device, Ouroboros attacks Grancel directly. Even Duke Dunan tries his best to protect
+            Queen Alicia and Kloe from Enforcers but they fail. Even when the party arrives to rescue, they can\'t defeat 4
+            enforcers at the same time. During the dire situation, Colonel Richard leads the Intelligence Division to attack
+            red jaegars and protect Grancel. The purpose of the whole invasion is just for fun, so the enforcers leave.\n
+        -   Not long after the invasion, Erebonia army is at the north of Haken Gate and is preparing to cross the border.
+            Their reason is because the phenomenon affects south Erebonia as well. Also, Erebonians think the Liber Ark is
+            Liberl\'s weapon to get revenge for the Hundred Days War. The man who leads the Erebonia army at the gate is Olivier.\n
+        -   Thanks to a secret deal between Olivier and Cassius, also the effort of Claudia von Auslese, Olivier manages to hold
+            the advance of the army temporary.\n
+        -   Immediately after that, Olivier and Mueller join our party to go on board on the Arseille to stop the phenomenon.\n\n
+        Finale: Trails in the Sky\n
+        -   The Arseille suffers damage and requires time to repair after it manages to land on the Liber Ark.\n
+        -   The party explores the area and finds Josette. Josette says that her brothers and the entire crew got captured and
+            she wants to save them. They save the crews who are captured in the Glorious.\n
+        -   After that, the Capua is trying to fix the Bobcat while supporting the party to end the phenomenon.\n
+        -   The party reaches a massive tower called Axis Pillar. The enforcers are guarding it at several floors.\n
+        -   Bleublanc is defeated first but he promises this is just the beginning.\n
+        -   Walter reveals that Zin was the chosen successor but Walter did not want to fight him for the position because he
+            was sure Zin would allow him to win. Zin informs Walter that their master was already dying of a terminal illness.
+            Zin and Walter exchange the last blow, Walter faints while Zin remains standing.\n
+        -   Luciola tells Schera that she was in love with the master of the Troupe, but he planned to sell the circus and carried
+            his debt alone. She was snapped and pushed him off a cliff so he would never leave her. She realizes her darkness so
+            she left Schera to protect her. She tries to commit suicide by leaping from Axis Pillar. Schera uses her whip to
+            grab Luciola\'s arm but she cut the whip and falls. Luciola\'s fate remains unknown. Before Luciola falls, she reveals
+            that she participates in the Gospel Plan in order to see Schera one more time and ensure that she was happy in her new life.\n
+        -   Renne and Pater-Mater lost the fight. Estelle tries to reason with Renne again but Renne refuses everything she says.
+            Renne reasons that Estelle knows nothing about her so she has no right to convince her. Estelle loves Renne and wants
+            to save Renne, because of that, Estelle has to slap Renne and tells her off for not considering the others she has hurt.
+            Renne says that Estelle is the same with those adults who hurt Renne. Estelle hugs Renne and ask her to listen to her heart.
+            Renne does not dislike the feeling of being hugged but her stubbornness makes her refuse Estelle again. But this time, Renne
+            says she wants to be alone and thinks. She warns that Loewe is waiting for them then flies away.\n
+        -   Before the fight, Loewe wanrs them that his full power surpass S-Ranked bracer and even a Anguis of Ouroboros. Estelle
+            says it does not matter because she has to stop a Weissmann from obtaining Aureole and prevent a war. Joshua offers a
+            one-to-one fight against Loewe. Loewe desires to test humanity\'s potential to learn if Karin\'s sacrifice was
+            worth it. Joshua disaarms Loewe with a final attack. Loewe declares that he has found his answer and has no reason to
+            stay with Ouroboros anymore, and hints to become a bracer like he used to wish.\n
+        -   Weissmann suddenly appears and deals a severe damage to Loewe. Joshua is controlled by Weissmann again.\n
+        -   When the party is ready to go to the top, several dragons attacked them. But thanks to everyone who stays in
+            the Areseille and the Capuas to hold the dragons back, the party moves on to the final fight.\n
+        -   Weismann reveals the truth about the Liber Ark. Aidios mankind the Sept-Terrion. Seven groups used their power to
+            create their perfect society. The Liber Ark was a floating paradise, allowing them to pursue anything they want.
+            Aurole provided the citizens anything they desired, which later led to a kind of moral decay with all sorts of crime
+            occurring, people exhibiting addiction-like symptoms to the miracle they had become accustomed to and suicides increasing.
+            Aureole cared nothing for this and kept providing the miracles.\n
+        -   Weissmann asks if sealing the Aureole was the right decision. With the rise of orbal technologies which makes
+            life easier. The humanity is doomed to repeat the same mistakes. His ambition and gola of the Gospel Plan is to
+            use the Ring\'s power to evolve humanity so people have the control not to be overcome by adversity or emotions
+            and the intelligence to always make the correct decision. This is the mission he has been entrusted with as one
+            of the Anguis in the service of the Grandmaster of Ouroboros.\n
+        -   As they fight, Joshua suddenly strikes Weissmann. It was thanks to Kevin who modifies the Stigma to make it
+            self-destruct if a particular command was given.\n
+        -   Weissmann changes his plan and begins the final phase of the Gospel Plan immediately. He leaps into the center
+            of Aureole and transforms into Angel Weissmann. Weissmann overwhelms the whole party but Loewe manages to come
+            and attack him. Loewe asks what rol did Weissmann play in the Hamel tragedy. Weissmann reveals that he
+            whispered to a certain noble and introduce them some jaegers.\n
+        -   Loewe has his suspicion for a long time ago so he was calm. Loewe later uses the sword which was a gift from
+            the Grandmaster to cut down Weissman\'s Sept-Terrion barrier that grants absolute dominion over Space. However,
+            Loewe was thrown back and suffers a severe injure. The party takes the chance to defeat Weissmann.\n
+        -   After Weissmann is defeated, he escapes with the Aureole. But Kevin Graham has been waiting for him. Kevin
+            reveals that he is Dominion number V, the Heretic killer. Kevin shoots Weissmann with an arrow made of a part pf
+            Salt Pale tree and kills him. Campanella appears to retrieve Weissmann\'s staff and leave without bothering about his dead.\n
+        -   Loewe is dying there is nothing the party can do, no matter how much Joshua begs him not to go, leaving him alone just like
+            when Karin died. Loewe asks Joshua to live and asks Estelle to take care of him. The Liber Ark starts collapsing
+            after Loewe dies, but Joshua is unable to leave him. Estelle reminds him what Loewe just said and whatever happens
+            next, they\'ll face it together. Unable to take Loewe\'s body with him, Joshua picks up his sword and flees with the rest.\n
+        -   Everyone is able to escape on Arseille and Bobcat but because Joshua and Estelle were late and the path collapesed, they
+            are ready to die and fall from the sky. Cassius rides on Ragnard and saves both of them.\n\n
+        Epilogue\n
+        -   Estelle and Joshua visit Karin\'s grave. Joshua lays Kernviter (Loewe\'s sword) next to her grave.\n
+        -   They are now leaving Liberl to find Renne and investigate Ouroboros\'s next move.\n </string>
+
+    <string name="title_3rd_Summary">
+        Trails in the Sky The 3rd is the third installment of the Trails series and the final installment of Liberl arc.\n\n
+        Prologue\n
+        -   Kevin was asked to come to Grancel\'s Cathedral to look at an artifact coming from the Liber Arc, the Recluse Cube.
+            While negotiating with Erika Russell about how this artifact should be handled,
+            Ries Argent comes to join the conversation. In the end, it was decided that Kevin will hold the artifact.\n
+        -   The artifact suddenly activated later that night and pulls Kevin, Ries, and Gilbert into an unknown dimension.\n\n
+        Chapter 1: Phantasma\n
+        -   Kevin and Ries begin their investigation in the Hermit\'s Garden. They find a way to explore outside the Garden
+            by using the Cube. The one who tells them is a mystery female voice that appears and disappears randomly.\n
+        -   They find the place they are at is very strange and dangerous due to the appearance of demons that are mentioned
+            in the Testament of Septian Church.\n
+        -   During their investigation, they find a strange stone that seals a person inside. The first one they meet is Tita Russell.\n
+        -   Together with Tita, they find the Arseille. According to Tita, the orbal technology is not working at all.\n
+        -   They find Captain Julia Schwarz inside a stone, similar to Tita.\n
+        -   A masked man name Schwarzritter proclaims himself to be a servant of the lord of this dimension, Phantasma.\n\n
+        Chapter 2: The Otherworldly Capital\n
+        -   Julia questions how the masked man knows Ries\' older sister, Rufina. Ries reveals that Rufina was a knight
+            of the Gralsritter who died during a mission five years ago.\n
+        -   In the second plane of Phantasma, it takes shape of the whole Grancel. However, it is just an empty city.\n
+        -   The party find Mueller Vander, Josette Capua, Joshua Bright in stones and Gilbert in actual person.\n
+        -   The Lord of Phantasma later appears in front of everyone while holding the stone of princess Klaudia. He promises
+            to return the stone if they overcome the trial.\n
+        -   The party wins the fight and obtain the stone of princess Klaudia. The Lord taunts Kevin to figure out his trick.\n\n
+        Chapter 3: Golden Road, Silver Road\n
+        -   Klaudia is released with her falcon Sieg from the sealing stone.\n
+        -   On the third plane, the path splits into two: a silver road and a golden road. The party is split and each goes
+            to explore the roads. Kevin and Ries lead each team of four. Kevin takes the golden road and Ries takes the silver road.\n
+        -   In the road, Kevin and Ries find items that are connected to Rufina: The Aion Bow and the Sulvahn. At the end of each
+            road, they have to fight their doppelganger. Each team receives a sealing stone after defeating it.\n
+        -   Schwarzritter congratulates them at the cross road. He gives information about a ghostly woman that has been
+            helping them. He calls her the hermit and mentions that she is the master of the Hermit\'s Garden. However, because
+            of the Lord, she loses most of her power and there are little things she can do.\n
+        Chapter 4: The Dark Stigma\n
+        -   The two new members released from the stones are Olivert Reisei Arnor and Zin Vathek.\n
+        -   Olivert believes that the Lord is related to Kevin in some manner. During the discussion, Kevin\'s attitude upsets
+            Ries, so she wishes to take a break and remains in the garden. Kevin talks to her in private out of concern. Ries is
+            upset because of Kevin\'s acting friendly with everyone while keeping her and them out of the loop.\n
+        -   Joshua later talks to him to say thank you despite Kevin being a double face in several cases in SC. He offers
+            to be Kevin\'s right hand for the time being, and Kevin accepts.\n
+        -   The fourth plane takes place in the training camp Le Locle.\n
+        -   The party frees Anelace Elfead, Scherazard Harvey, and Agate Crosner during the exploration.\n
+        -   When the party is ready to move to the next location after the portal opens, a devil uses Evil Eye curse to
+            bind the whole team. Ries appears to protects the team, but the devil is too strong. When it almost kills Ries,
+            Kevin releases his insignia and kills the devil.\n
+        -   The Lord appears to give the party another stone. The next member is Estelle Bright. However, Estelle notices
+            Kevin\'s pale face, and he passes out due to exhaustion.\n\n
+        Chapter 5: Labyrinth of Shadows and Light\n
+        -   Ries confirms that the power Kevin used against the demon is the true Stigma. Ries becomes team leader temporarily.\n
+        -   The new members are ex-Colonel Richard and Renne.\n
+        -   Renne is panic and upset after she sees Joshua and Estelle. It was because they were trying to look for her over
+            the past several months. The conversation gets worse when Ries is upset with Renne\'s selfishness, but Tita manages
+            to settle down. Renne later decides to help the team because she wants to learn why she ends up in Phantasma.\n
+        -   Thanks to Renne, the party learns more about the nature of Phantasma.\n
+        -   The final sealing stone the party receives is Celeste D. Auslese, the ancestor of Klaudia.\n\n
+        Chapter 6: The Guardians\' Trials\n
+        -   Celeste explains that she is just a copy of the real person, an A.I.. Her task was to help the real one to
+            seal Aureole back in the Dark Ages. The Phantasma belongs to Aureole. When Ouroboros removed the Aureole,
+            it should have been slowly dissappearing peacefully but the Lord appeared to take over the Phantasma.\n
+        -   The party faces with several trials, battling against other characters who are known in the past 2 games.\n
+        -   The final trial is to defeat, Scharzritter, who turns out to be Loewe. When he is fading away, Joshua informs
+            him that Joshua has placed his sword next to Karin\'s grave, and Joshua is ready to move on and become stronger.
+            Loewe is satisfied and finally rests in peace.\n
+        -   The final place is the Aster House, where Kevin, Ries, and Rufina grew up together.\n\n
+        Chapter 7: The Distant Flames\n
+        -   In the chapel, Kevin reveals the truth behind Rufina\'s dead. A group of jaegers hired by an unknown party raided
+            the Aster House. Kevin managed to silently eliminate the enemies, but Ries was held hostage under the Chapel.
+            While reaching the basement, Kevin had the flashback about the tragic past of his mother trying to commit a double-suicide with
+            Kevin because his father abandoned both of them. The jaeger was alarmed when he saw Kevin so he dropped Ries down
+            and ran to grab the artifact in the basement: the Spear of Loa that transforms its wielder into a monster. Kevin
+            fought the beast but he was overwhelmed. His stigma activated when the beast tried to kill Ries. After the beast was
+            killed, he couldn\'t control his bloodlust and ended up killing Rufina who tried to calm him down.\n
+        -   Kevin accepts to receive punishment under Ries\' hand, but she is furious because Kevin kept hiding the secret
+            and suffering all alone while it was not his fault.\n
+        -   The Lord appears and asks Kevin about his identity. Kevin points out the Lord is the false Rufina, who was created
+            by Kevin\'s mind. The Lord later causes a rift to send Ries to an abyss. Kevin jumps down before the rift is shut.\n
+        -   The abyss, the seventh plane, is resembles to Gehenna. Kevin and Ries work together to escape Gehnna.\n
+        -   On their way to the top, they battle against demons who represent Kevin\'s nightmare: a flesh-eating child whom
+            Kevin failed to save, Bishop Owen who was responsible for the attack of the Aster House, Kevin\'s mother.\n
+        -   They face Georg at the door to escape Genhenna. After Georg is defeated, the gate is still remained shut.
+            A group of tough winged devils chasing Gilbert who is heading to their way. Thankfully, the rest of the party, with
+            the help of Celeste, manages to open the path to Gehenna and rescue them all.\n\n
+        Finale: The Future We Dream Of\n
+        -   In order to settle down everything, the team decides to take down Rufina. Celeste makes Arseille functional to
+            take everyone to Rufina\'s location. However, a small group of dragons attacking the Arseille, so Gilbert uses
+            hid G-Apache to distract them. Thanks to his help, the team arrives at Phantasmagoria.\n
+        -   It is revealed that the Lord is actually a copy of his Stigma known as Anima.\n
+        -   After Anima is defeated, it takes the form of Rufina again. This time, the real Rufina talks to them, she asks
+            Kevin to kill her fast to prevent the Lord from reviving. Kevin is hesitated but Ries is with him, together, they
+            bid their final farewells to Rufina and shoot her with Kevin\'s crossbow.\n
+        -   The planes start to collapse after Anima\'s destruction, everyone starts leaving one after another. Even Gilbert
+            manages to escape before the plane gone.\n
+        -   Kevin has finally overcome his past, he gets rid of his Heretic\'s Hunter title and thinks about a new name for the new him.\n
+    </string>
 
     <string name="country_liberl_summary">The Liberl Kingdom is located in southwestern Zemuria. Its mainland is
         bordered to the south by the Thetis Sea and to the west by an unnamed ocean; to the north by Erebonia;
@@ -172,6 +497,17 @@
         some can say it is a share property of both Erebonia and Calvard.\n
         In the present, Crossbell State is growing extremely fast due to its location allows trades between two super nations
         Erebonia and Calvard</string>
+    <string name="location_hamel_summary">WARNING: any information about Hamel must not be disclosed to the public and any unrelated party. The truth about Hamel can cause another huge international incident.\n\n
+        Hamel was a small village in Erebonia Empire. It was located near the border between Erebonia and Liberl.\n
+        One night, an unknown armed group massacred the village and left no one survive. According to Erebonia, they found evidences that led them to believe Liberl army was that group.\n
+        After the incident is the Hundred Days War. It is unknown what Erebonia, or specifically, chancellor Gilliath Osborn found to make them agree to ceasefire and apologize to Liberl.
+        The man who indirectly cause the incident is Anguis III of the Society, Georg Weissmann. However, he was killed by the a Dominion for his sins before we could find out more about the massacre.\n\n
+        In the incident, however, there were 2 residents of Hamel survived the massacre:\n
+        -   Leonhardt, enforcer No. 2 of the Society, known as Bladelord. He suffered a fatal wound by Georg Weissmann and died at Liber Arc.\n
+        -   Joshua Bright, enforcer No. 12 of the Society, known as Black Fang. After the massacre, somehow Joshua and Leonhardt were recruited by Georg himself and became enforcers.
+        Joshua has discarded his connection to the Society and becomes Bracer.\n\n
+        In the record, Joshua Bright is the only survivor of the incident.
+    </string>
 
     <string name="TL_txtviewIntro">The Zemuria continent follows the Septian Calendar
         to the present day.\n
@@ -237,6 +573,13 @@
         to involve and interfere in any nation\'s dispute when no harm is likely to happen to civilians.\n
         However, the loophole in the Guild Code can be used to allow Bracers to act immediately. During the coup, a
         citizen\'s request can allow Bracer Guild to act immediately to protect citizens from harm.</string>
+    <string name="septian_church_description">The Septian Church is a monotheistic religion formed around the Goddess
+        of the Sky known as Aidios. The High Seat of the Septian Church is established in Arteria.\n\n
+        The first appearance of the Church is said to have occurred approximately S.500, which marked the end of
+        the Dark Age.\n
+        However, it is also possible that the Church has existed since before the Great Collapse,
+        and it has been active in the public since after the Great Collapse.\n\n
+    </string>
     <string name="gralsritter_description">The Gralsritter is an order within the Septian Church, responsible
         for the investigation and retrieval of ancient Zemurian artifacts.\n\n
         There are 6 principles Gralsritter must follow:\n
@@ -290,7 +633,29 @@
         -   Anguis II - VII\n
         -   Enforcers\n
         -   Jaegers (mainly Red Constellation)
-
+    </string>
+    <string name="intelligence_divison_liberl_description">The division was formed per suggestion of Colonel Alan Richard
+        to Queen Alicia von Auslese II. Richard had Captain Kanone Amalthea re-assigned to his aide-de-camp.\n
+        The division was responsible for the coup before the Queen\'s birthday anniversary and several incidents across
+        the nation few months back: the Capua Sky bandits, the scandal of mayor Morris Dalmore,
+        the kidnap of Professor Albert Russell, the false accusation toward Royal Guards, and the secret house-arrest of
+        princess Klaudia von Auslese.\n\n
+        It was revealed at the end of Sora no Kiseki FC that Colonel Richard was also under the influence of Georg Weissmann
+        of the society, similar to the ringleaders of aforementioned incidents.\n\n
+        The nature of the coup was not out of malice, however Colonel Alan Richard has endangered many people for his plan. After
+        he was freed from Georg Weissmann\'s influence, he accepted to be in prison.\n\n
+        However, Captain Kanone Amalthea and several men from the division managed to escape after the coup. They planned to
+        sabotage Grancel a few months later, demanding Alan Richard to be released. Their plan was failed thanks to the
+        assistance of Father Kevin Graham from the Septian Church. After the remains were arrested, Cassius Bright let Alan met
+        Kanone to let her know that Alan has accepted the outcome so she doesn\'t have to fight anymore.\n\n
+        During the direct attack from the Society to Grancel, it was all thanks to commander Cassius Bright, who has predicted
+        such possibility, to temporary relieve Alan Richard and the whole division to protect the capital.\n\n
+        After their achievement in protecting Grancel, the division was disbanded. All members were allocated to different
+        division. Only Alan Richard and Kanone Amalthea retired and fonded R &amp; A Research.
+    </string>
+    <string name="red_constellation_description">Red Constellation is one of the strongest Jaegar corps in Zemuria.\n
+        Their origins date back to the Dark Ages where they began as Orlando\'s Berserkers, a warrior clan.\n\n
+        In Sora no Kiseki, they were known as red Jaegar corp of the Society.
     </string>
 
 

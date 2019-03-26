@@ -22,7 +22,6 @@
             android:orientation="vertical">
 
             <ImageButton
-                android:id="@+id/title_imgButton_fc"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -31,14 +30,9 @@
                 android:background="#00000000"
                 android:cropToPadding="false"
                 android:scaleType="fitXY"
-                app:layout_constraintEnd_toEndOf="parent"
-
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/title_mainTitle"
                 app:srcCompat="@drawable/title_img_sc" />
 
             <TextView
-                android:id="@+id/textView"
                 android:layout_width="374dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="16dp"
@@ -46,11 +40,8 @@
                 android:layout_marginTop="32dp"
                 android:layout_marginEnd="5dp"
                 android:layout_marginRight="16dp"
-                android:text="@string/title_fc_Summary"
-                android:textSize="20dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/title_imgButton_fc" />
+                android:text="@string/title_sc_Summary"
+                android:textSize="20sp" />
         </LinearLayout>
 
     </ScrollView>

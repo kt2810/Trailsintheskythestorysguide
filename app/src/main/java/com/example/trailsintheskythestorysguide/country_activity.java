@@ -8,10 +8,7 @@ import android.view.View;
 import android.widget.ImageButton;
 
 public class country_activity extends AppCompatActivity {
-    private ImageButton liberl;
-    private ImageButton calvard;
-    private ImageButton erebonia;
-    private ImageButton crossbell;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,6 +47,14 @@ public class country_activity extends AppCompatActivity {
             }
         });
 
+        ImageButton button5 = findViewById(R.id.hamel_btn);
+        button5.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                open_hamel_page();
+            }
+        });
+
     }
 
     public void open_liberl_page(){
@@ -66,6 +71,10 @@ public class country_activity extends AppCompatActivity {
     }
     public void open_crossbell_page(){
         Intent intent = new Intent(this, country_crossbell.class);
+        startActivity(intent);
+    }
+    public void open_hamel_page(){
+        Intent intent = new Intent(this, location_hamel.class);
         startActivity(intent);
     }
 }

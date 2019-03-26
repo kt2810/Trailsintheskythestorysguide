@@ -10,37 +10,41 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".location_hamel"
+            android:label="Hamel Village"
+            android:parentActivityName=".country_activity" />
+        <activity
             android:name=".zcf"
             android:label="Zeiss Central Factory"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".epstein_foundation"
             android:label="Epstein Foundation"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".intelligence_division_liberl"
             android:label="Intelligence Division of Liberl"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".red_onstellation"
             android:label="Red Constellation"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".gralsritter"
             android:label="Gralsritter"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".septian_church"
             android:label="Septian Church"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".ouroboros"
             android:label="Ouroboros"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".bracer_guild"
             android:label="Bracer Guild"
-            android:parentActivityName=".organization_activity"/>
+            android:parentActivityName=".organization_activity" />
         <activity
             android:name=".title_activity"
             android:label="Titles"
@@ -51,7 +55,7 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".country_activity"
-            android:label="Countries"
+            android:label="Locations"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".timeline"

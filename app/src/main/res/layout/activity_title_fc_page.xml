@@ -30,7 +30,6 @@
         android:background="#00000000"
         android:cropToPadding="false"
         android:scaleType="fitXY"
-        app:layout_constraintTop_toBottomOf="@+id/title_mainTitle"
         app:srcCompat="@drawable/title_img_fc" />
 
         <TextView
@@ -40,9 +39,8 @@
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp"
             android:layout_marginTop="32dp"
-            android:text="@string/title_sc_Summary"
-            android:textSize="20sp"
-            app:layout_constraintTop_toBottomOf="@+id/title_imgButton_fc" />
+            android:text="@string/title_fc_Summary"
+            android:textSize="20sp" />
     </LinearLayout>
 
     </ScrollView>

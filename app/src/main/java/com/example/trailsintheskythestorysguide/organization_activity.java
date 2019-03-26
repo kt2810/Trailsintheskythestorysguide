@@ -70,6 +70,23 @@ public class organization_activity extends AppCompatActivity {
                 open_ouroboros_activity();
             }
         });
+
+        red_constellation_btn =findViewById(R.id.red_constellation_emblem_btn);
+        red_constellation_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v){
+                open_red_constellation_activity();
+            }
+        });
+
+        intelligence_division_liberl_btn =findViewById(R.id.intelligence_division_liberl_btn);
+        intelligence_division_liberl_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v){
+                open_intelligence_division_liberl_activity();
+            }
+        });
+
     }
 
     public void open_bracer_activity(){
