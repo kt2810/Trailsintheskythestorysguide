@@ -658,5 +658,203 @@
         In Sora no Kiseki, they were known as red Jaegar corp of the Society.
     </string>
 
+    <string name="char_agate">
+        Agate Crosner, known as the Heavy Blade, is a bracer of Liberl.\n
+        He was born in Ravennue Village in S.1178. He lived happily with his younger sister, Mischa, until the
+            Hundred Days War struck in S.1192.\n\n
+        During the war, Mischa attempted to retrieve her birthday gift for Agate inside their burning house, which
+            led to her dead. Agate had been suffered with anger and self-hatred since then.\n
+        He confronted mayor Maybelle\'s father house because the mayor abandoned the village during the Erebonia\'s attack.
+            Maybelle at that time did not understand the situation but seeing her father was insulted made her slap Agate.
+            But Agate ignored her and later punch her father then left.\n\n
+        After a period of time, he left the village and wandered around until he stopped at Ruan and became the leader of
+            the Ravens, a local port gang. During his criminal period, he met Cassius Bright who later turned him into a Bracer
+            and left the Ravens.\n\n
+        Despite working as bracer to help people, Agate was still suffered from his sister\'s dead. He left a bad impression
+            for Estelle and Joshua for his attitude toward junior Bracers who try to handle serious situations.\n\n
+        During FC, he had been pursuing the men in black, the division intelligence, for a long time. He confronted Lt. Lorence and
+            crossed his sword with Lorence. Lorence pointed out Agate\'s was swinging his blade aimlessly without a clear goal
+            made Agate was angrier.\n
+        When Prof. Albert was being kidnapped by the Intelligence Division members, Tita tried to save his grandfather but
+            her weapon caused a member panic that he shot a very dangerous poison at her. Agate jumped out and got hit by
+            the poison which almost killed him. Luckily, Estelle team managed to find the cure and saved him. During his recover,
+            he woke up at night and mistook Tita was his sister, Mischa. When Tita asked him who Mischa was, he told her Mischa was
+            his sister but he lied about her dead. After prof. Albert was rescued, Agate, prof. Albert and Tita split with
+            the Brights so the Brights can inform the Queen about the coup while Agate hid prof. Albert and Tita away.\n\n
+        During SC, his village was set afire by a dragon under manipulation of George Weissmann. To make it worse, Lorence aka
+            Loewe was with the dragon angered Agate which made Agate chased after them alone. Agate was no match against Loewe and was
+            almost got killed by him, but Tita jumped out and did everything to save him. Agate was saved but he was heavily injured
+            so Estelle team rushed him back to his house in the village. The team also learnt about his past later after the fight.
+            Tita decided to stay back to take care of Agate. Later that night, Agate had a conversation with Tita. Thanks to Tita,
+            Agate managed to remove the curse of self-hatred for all these years.\n\n
+        Sometime before the 3rd, Agate visited Tita\'s house to have a dinner. However, Tita\'s mother, Erika Russell, doesn\'t
+            like him because he left the impression of being a delinquent and a punk.
+    </string>
+
+    <string name="char_alan">
+        Alan Richard, the Dinvine Blade\'s Successor, the Ex-Colonel of Liberl, the co-founder of RA Research.\n\n
+        He was an extraordinary talent officer who supported Cassius Bright during the Hundred Days War. After Colonel
+            Bright\'s retirement, he was feared of the weakening Liberl. So he founded the Intelligence Division to
+            reinforce his country\'s strength. He was manipulated by Georg Weissmann, and later begin his coup plot.\n\n
+        He was publicly known as the hero who solved the country\'s problems, including all events happened during FC.
+            He arranged a house arrest of Queen Alicia and Princess Klaudia. However, his plan was foiled by the Bracer
+            Guild, led by Estelle and Joshua Bright with their companions. He realized his mistake and accepted his prison
+            time. Months later, Cassius recognized his genuine patriotism, as the result, he and the rest of Intelligence
+            Division had the chance to redeem themselves by protecting Grancel during the Scoeity direct attack.\n\n
+        Despite everyone\'s wish to have him remain in the military, Richard retired and found RA Research with Kanone Amalthea
+            to continue his patriotism in a different way.
+
+    </string>
+
+    <string name="char_albert">
+        Albert Russell is a famous orbal engineer workin at the ZFC. He is a student of Epstein and is known as
+            the "Father of the Orbal Revolution".\n\n
+        He is an eccentric researcher whose passion for technology has no end. He lives together with his dear
+            granddaughter Tita.\n\n
+        In FC, he was kidnapped by the Intelligence Division due to his talent.\n\n
+        At the end of FC and during SC, his genius mind helped the Liberl greatly.
+    </string>
+
+    <string name="char_alba_weissmann">
+        Alba, real name is Georg Weissmann, known as The Faceless, the former third Anguis of the Society. He was a
+            bishop of the Septian Church until he joined the Society for his own interest.\n\n
+        He was the mastermind behind the every incident in FC and SC. He also instigated the Hundred Days War.\n\n
+        His homeland was North Ambria. At the age of 13, the Pillar of Salt hit his homeland and killed both of his parents.
+            He was pursuing to re-create the Stigma to create superhumans. His actions were against the wish of the Septian Church.\n\n
+        He is an evil, manipulative person who is willing to do anything to  fulfill his plan. He was killed by Kevin Graham by the
+            same Pillar of Salt that killed his parents. Due to his nature, no one, even the Society, mourned for his dead.
+
+    </string>
+
+    <string name="char_alicia">
+        Alicia von Auslese, known as Alicia II, is the queen of Liberl.\n
+        During FC, Lorence said she had no right to advise him what to do, because she was one of those who gave up on
+            bringing the justice for the victims of Hamel Village. However, no one can criticize her action, even Lorence,
+            because queen Alicia did what a ruler must do to protect her country.\n
+        During SC, Joshua accepted her apology for the Tragedy of Hamel Village.
+    </string>
+
+    <string name="char_anelace">
+        Anelace Elfead is a bracer of Bose branch in Liberl. She is the granddaughter of the famous swordsman Yun Ka-fai.
+            She is a student of Eight Leaves One Blade school.\n
+        In FC, she was a rookie senior bracer. She was one of the bracer who helped Estelle team in many incidents.\n
+        After the coup, she became close friend and friendly rival with Estelle during and after their Bracer training at
+            Le Locle.\n
+        During SC, she was assigned to search for the Society. Anelace, Kurt, Grant, and Karna managed to find a local
+            hideout of the Society in Liberl and went to spy on them. However, they were found out and only Kurt managed to
+            escape and send the message to Estelle team. Anelace and the rest were later rescued.\n
+        In 3rd chapter, it was revealed that she was struggling to understand her path of sword. Cassius Bright and Richard, as
+            senior of the school, helped her to choose her own path.
+    </string>
+
+    <string name="char_bleublanc">
+        Bleublanc, known as the Phantom Thief B, is Enforcer No. X of Ouroboros.\n
+        He is a narcissistic and egotistical to a point. He has vain ideas about beauty and attributes it with pride and sees
+            Olivier as his rival. He admired Princess Klaudia\'s beauty and admits that he is in love with her.\n
+        In FC, he does not appear officially but he has stolen several artworks and tested Estelle team to bring them back by
+            solving his puzzle.s\n
+        In SC, he is an Ouroboros member who joins the Gospel Plan. He does not share same interest with the mastermind Georg
+            Weissmann but he accepts a role in the plan for his own satisfaction.\n
+        After the fight at Liber Arc, he warns everything is just the beginning.
+    </string>
+
+    <string name="char_campanella">
+        Campanella, known as The Fool, is Enforcer No. 0 of Ouroboros.\n
+        He is the right hand of Ouroboros\' Grandmaster, to which he reports the progress of the plans/\n
+        He declares that he is merely an observer of the Gospel Plan and has no interest in interfering with the plan
+            nor Estelle team. However, to make things interesting for him, he often send enemies to cause difficulty for
+            Estelle team.\n
+        After Weissmann dead, he only interests in retrieve Weissmann\'s weapon and the Aureole.\n
+        In the 3rd, he has a meeting with the higher members of Ouroboros and informs everyone, including the Grandmaster,
+            about the plan. During the meeting, it is revealed that the Gospel Plan is considered completed, and they are preparing
+            for the next step, the Phantasmal Blaze Plan.
+    </string>
+
+    <string name="char_cassius">
+        Lieutenant General Cassius Bright, also known as the Divine Blade, is the commander of the Royal Army of Liberl
+            and the former S-rank bracer.\n
+        He is Estelle\'s biological father and foster father of Joshua.\n
+        During the Hundred Days War, he was the colonel of the Imperial Army. He succeeded in protecting Liberl but lost his
+            wife, Lena, in the war. Because of that, he gave up his sword and position to picked up his staff and became a bracer
+            in order to protect his last living treasure, Estelle.\n
+        In S.1197, he was a target of extermination by Ouroboros. The Society dispatched Joshua Astray to assassinate him
+            but failed. He brought Joshua back home and raised him like his own son.\n
+        In SC, bracer guilds in Erebonia were attacked by unknown forces. He was requested to help solve the incident.
+            Thanks to him, the jaegar group Jester was eliminated. However, it was revealed that the sabotage of bracer
+            branches was what the Erebonia\'s Intelligence Division wished for. They deemed Cassius as the most dangerous
+            man for their currently unknown goal.\n
+        In FC, after the coup, he returned to work in the army. Thanks to him and Olivier having a secret deal, they managed
+            to prevent Erebonia forces from crossing Hanken Gate during the Orbal Shutdown Phenomenon.\n
+        When Estelle and Joshua could not escape the collapsing Liber and were falling to their dead, Cassius rode on a dragon
+            to save them.
+    </string>
+
+    <string name="char_celeste">
+        Celeste D. Auslese was the de facto leader of the ancient faction that sealed away the Aureole.\n
+        In order to seal Aureole away, Celeste created a copy of her in Phantasma to slow down Aureole\'s ability to
+            process inside it.\n
+        Her copy, Aureole, and the Liber Arc were sealed away in a different dimension until Georg Weissman unseal the
+            barrier.\n
+        In the 3rd, Celeste\'s copy lost her power ruling over Phantasm by the Lord of Phantasma. She seeks help from
+            Kevin and Ries who hold the Recluse Cube that allow them to come to Phantasma.\n
+        After the lord is defeated, she accepts her fate to rest because she has completed her duty.
+    </string>
+
+    <string name="char_colins">
+        Dean Collins is the current Dean at Jenis Royal Academy in Liberl.
+    </string>
+
+    <string name="char_raven_trio">
+        The Raven Gang consists many outlaw young men. However, the most standouts are Din, Lace, and Rocco.\n
+        They were the head of the Raven gang after Agate left. Their ill-natured remained until the Estelle\'s
+        optimistic nature charm them. Thanks to Estelle, the trio and the entire gang slowly change the way they
+        should behave.\n
+        During the crisis in SC, Raven gang was a large civilian force that maintained peace and support citizens of
+        Ruan.\n
+        In the 3rd, the trio decided to become Bracer, inspired by Estelle. Agate was their mentor. In the day they
+            had a test to decide if they could become junior bracers, Rocco was irritated by their weakness and blamed
+            Din and Lace for holding him back. The trio was almost broken down as Din and Lace left Rocco on his own.
+            But they decided to come back for Rocco knowing the dangerous of their test location. Thanks to that, the trio
+            finally had a conversation to reflect themselves. In the end, Agate determined them were worthy to become
+            junior bracers despite their flaw during the test.\n
+    </string>
+
+    <string name="char_don">
+        Don Capua is a member of the Capua family. He was an Erebonian noble until a corrupted deal that made the Capua
+            lost everything. Kyle and Josette are his younger brother and sister.\n
+        After the Capua lost everything except their ship, the Bobcat, they became sky pirates with several other people.\n\n
+        In FC, Don first appeared as an evil bandit that even Josette and Kyle were confused and questioned his humanity. It
+            was turned out that he was brainwashed by George Weissmann to act like how colonel Richard wanted, in order to
+            inflate Richard\'s reputation for catching the criminals that he made.\n
+        Don was freed from brainwashed after being defeated by Estelle team. He and the rest of sky bandit went to jail. They
+            met Estelle team again when they were in prison during Estelle\'s mission to rescue professor Albert. They also met
+            again during the Grancel tournament.\n\n
+        In SC, Joshua freed Capua sky bandit and stole back the Bobcat. In exchange, the Capua sky bandit helped Joshua
+            infiltrated the Glorious of the Society. After their deal was completed, however, the Capua sky bandit decided
+            to help Joshua further more and ended up saving him while he and Estelle were gunning down by battle ships.\n
+        Right after the Orbal Shutdown Phenomenon, the Bobcat crashed onto the Liber Arc. They faced the Society while fixing
+            the Bobcat. In order to protect Josette, Don and the rest were arrested by Josette was hiding. They were rescued after
+            Josette requested Estelle team to save them. Don decided to help Liberl as much as they can while they were on Liber Arc.
+            Thanks to that, the Capua sky bandit was under the mercy of Queen Alicia. She forgave all of their past crime, bought the
+            Bobcat from Erebonia and gifted it to them.\n\n
+        In the 3rd, they were grateful by Queen Alicia\'s kindness and turned to work honestly as sky delivery service.
+    </string>
+
+    <string name="char_dunan">
+        Dunan von Auslese is a member of Liberlian Royal Family. He is the nephew of Queen Alicia and uncle of Princess Klaudia.\n
+        In FC, he was an arrogant person who still believed in the power of a noble. He sided with the Intelligence Division
+            to get the right of succession to himself. However, he did not know he was the pawn of the Intelligence Division until
+            the coup happened. He was scolded harshly by Queen Alicia and decided to isolate himself in the Erbe Royal Villa and
+            reflected on her words.\n
+        In FC, he had not changed much but he had shown signs of reflecting his past actions. Princess Klaudia agreed of how Dunan
+            judged her for not being capable to lead the country.\n
+        After the kidnapping of Dunan incident, he finally reflected himself and changed into a decent member of royal. He
+            helped people, and especially worked hard to provide support for citizens in need. He also prepared to sacrifice
+            himself to protect Queen Alicia and Princess Klaudia during the attack of the Society in Grancel.
+    </string>
+
+    <string name="char_elnan">
+        Elnan is a guild receptionist of Bracer Guild in Grancel branch.
+    </string>
 
 </resources>

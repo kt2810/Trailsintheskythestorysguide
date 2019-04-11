@@ -22,16 +22,406 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/character_major_characters_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="32dp"
-                android:text="Major Characters:"
+                android:text="Characters in Alphabet Order"
                 android:fontFamily="sans-serif-condensed-medium"
                 android:textSize="50sp"/>
 
+            <!--Agate-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_agate_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_agate_crosner" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Agate Crosner"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Alan Richard -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_alan_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_alan_richard" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Alan Richard"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Alba -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_alba_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_alba" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Alba"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Albert Russell -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_albert_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_albert_russell" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Albert Russell"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Alicia von Auslese -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_alicia_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_alicia_von_auslese" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Alicia von Auslese"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Anelace-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_anelace_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_anelace_elfead" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Anelace Elfead"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Bleublanc -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_bleublanc_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_bleublanc" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Bleublanc"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Campanella -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_campanella_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_campanella" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Campanella"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Cassius -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_cassius_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_cassius_bright" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Cassius Bright"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Celeste D. Auslese -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_celeste_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_celeste_d_auslese" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Celeste D. Auslese"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Colins -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_colins_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_colins" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Colins"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Din -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_din_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_din" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Din"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Don Capua -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_don_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_don_capua" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Don Capua"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Dunan von Auslese -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_dunan_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_dunan_von_auslese" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Dunan von Auslese"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Elnan -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_elnan_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_elnan" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Elnan"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Estelle -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -39,17 +429,15 @@
 
                 <ImageButton
                     android:id="@+id/character_estelle_link_to_page"
-                    android:layout_width="129dp"
-                    android:layout_height="137dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="28dp"
                     android:background="#FFCD00"
-                    android:clipOrientation="vertical"
-                    app:layout_constraintStart_toStartOf="parent"
+                    android:scaleType="fitXY"
                     app:srcCompat="@drawable/ava_estelle_bright" />
                 <TextView
-                    android:id="@+id/character_estelle"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
@@ -59,6 +447,215 @@
                     android:textSize="30sp"/>
             </LinearLayout>
 
+            <!--Georg Weissmann -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_george_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_george_weissmann" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Georg Weissmann"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Gilbert -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_gilbert_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_gilbert_stein" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Gilbert Stein"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Giliath Osborne -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_giliath_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_giliath_osborne" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Giliath Osborne"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Grant -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_grant_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_grant" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Grant"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Gustav -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_gustav_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_gustav" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Gustav"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Hilda -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_hilda_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_hilda" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Hilda"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Jean -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_jean_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_jean" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Jean"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Josette -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_josette_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_josette_capua" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Josette Capua"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Joshua -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -66,17 +663,15 @@
 
                 <ImageButton
                     android:id="@+id/character_joshua_link_to_page"
-                    android:layout_width="129dp"
-                    android:layout_height="137dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="28dp"
                     android:background="#FFCD00"
-                    android:clipOrientation="vertical"
-                    app:layout_constraintStart_toStartOf="parent"
+                    android:scaleType="fitXY"
                     app:srcCompat="@drawable/ava_joshua_bright" />
                 <TextView
-                    android:id="@+id/character_joshua"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
@@ -86,51 +681,569 @@
                     android:textSize="30sp"/>
             </LinearLayout>
 
+            <!--Julia -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal">
 
                 <ImageButton
-                    android:id="@+id/character_scherazard_link_to_page"
-                    android:layout_width="129dp"
-                    android:layout_height="137dp"
+                    android:id="@+id/character_julia_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="28dp"
                     android:background="#FFCD00"
-                    android:clipOrientation="vertical"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:srcCompat="@drawable/ava_scherazard_harvey" />
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_julia_schwarz" />
                 <TextView
-                    android:id="@+id/character_scherazard"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="32dp"
-                    android:text="Scherazard Harvey"
+                    android:text="Julia"
                     android:textSize="30sp"/>
             </LinearLayout>
 
+            <!--Kanone Amalthea -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal">
 
                 <ImageButton
-                    android:id="@+id/character_olivert_link_to_page"
-                    android:layout_width="129dp"
-                    android:layout_height="137dp"
+                    android:id="@+id/character_kanone_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="28dp"
                     android:background="#FFCD00"
-                    android:clipOrientation="vertical"
-                    app:layout_constraintStart_toStartOf="parent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_kanone_amalthea" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Kanone Amalthea"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Karna -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_karna_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_karna" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Karna"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Kevin -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_kevin_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_kevin_graham" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Kevin Graham"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Kilika -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_kilika_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_kilika_rouran" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Kilika Rouran"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Klaudia -->>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_klaudia_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_klaudia_von_auslese" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Klaudia von Auslese"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Klaus -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_klaus_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_klaus_fcevo" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Klaus"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Kurt -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_kurt_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_kurt_nardin" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Kurt Nardin"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Kyle -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_kyle_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_kyle_capua" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Kyle Capua"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Lace -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_lace_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_lace" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Lace"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Lechter Arundel -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_lechter_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_lechter_arundel" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Lechter Arundel"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Leonhardt -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_leonhardt_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_leonhardt" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Leonhardt"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Lila -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_lila_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_lila" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Lila"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Lorence -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_lorence_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_lorence_belgar" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Lorence Belgar"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Luciola -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_luciola_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_luciola" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Luciola"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Lugran -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_lugran_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_lugran" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Lugran"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Maybelle -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_maybelle_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_mayor_maybelle" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Maybelle"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Morgan -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_morgan_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_morgan" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Morgan"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Morris Dalmore-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_morris_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_morris_dalmore" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Morris Dalmore"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Mueller Vandler -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_mueller_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_mueller_vander" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Mueller Vandler"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Murdoch -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_murdoch_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_murdoch" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Murdoch"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Olivier -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_olivier_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
                     app:srcCompat="@drawable/ava_olivier_lenheim" />
                 <TextView
-                    android:id="@+id/character_olivier"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
@@ -140,6 +1253,241 @@
                     android:textSize="30sp"/>
             </LinearLayout>
 
+            <!--Philip Renard -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_philip_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_philip_renard" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Philip Renard"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Renne Bright -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_renne_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_renne_bright" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Renne Bright"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Ries Argent -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_ries_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_ries_argent" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Ries Argent"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Rocco -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_rocco_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_rocco" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Rocco"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Rufina Argent -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_rufina_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_rufina_argent" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Rufina Argent"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Scherazard -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_scherazard_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_scherazard_harvey" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Scherazard Harvey"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Teresa -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_teresa_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_teresa" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Teresa"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Tita Russell -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_tita_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_tita_russell" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Tita Russell"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Walter -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/character_walter_link_to_page"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="28dp"
+                    android:background="#FFCD00"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ava_walter" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Walter"
+                    android:textSize="30sp"/>
+            </LinearLayout>
+
+            <!--Zin Vathek -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -147,17 +1495,15 @@
 
                 <ImageButton
                     android:id="@+id/character_zin_link_to_page"
-                    android:layout_width="129dp"
-                    android:layout_height="137dp"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="28dp"
                     android:background="#FFCD00"
-                    android:clipOrientation="vertical"
-                    app:layout_constraintStart_toStartOf="parent"
+                    android:scaleType="fitXY"
                     app:srcCompat="@drawable/ava_zin_vathek" />
                 <TextView
-                    android:id="@+id/character_zin"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
