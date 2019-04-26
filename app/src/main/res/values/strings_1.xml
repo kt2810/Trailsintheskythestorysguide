@@ -57,11 +57,36 @@
             infiltrate Leiston Fortress.
     </string>
 
-    <string name="char_hilda"></string>
+    <string name="char_hilda">
+        Hilda is the Head Maid at Grancel Castle who serves Queen Alicia directly.\n
+        In FC, in order to meet Queen Alicia, Estelle and Joshua have to met Hilda to let her know the upcoming coup.
+            Thanks to her arrangement, Estelle and Joshua disguise themselves as new maids who are handpicked by Hilda
+            herself to serve Queen Alicia.
+    </string>
 
-    <string name="char_jean"></string>
+    <string name="char_jean">
+        Jean is a Bracer Guild receptionist at Ruan.
+    </string>
 
-    <string name="char_josette"></string>
+    <string name="char_josette">
+        Josette Capua is a member of the Capua family.\n
+        She was originally an Erebonian noble until they lost all of their fortune (except Bobcat) to a corrupt deal.\n\n
+        In FC, she was the first enemy who tried to steal a precious gift of Mayor Klaus which was intentionally the gift
+            for Queen Alicia in her Anniversary. She disguised herself as an honest student who loved to learn about the town.
+            Her plan was busted but she managed to escape thanks to her older brother (Kyle) and his smokescreen.\n
+        She and the entire Capua family were arrested and imprisoned by Colonel Richard until SC.\n\n
+        In SC, she and the Capua family were rescued by Joshua, and they also stole back Bobcat. In exchange, the family had
+            to help Joshua land on the Glorious. During the time Joshua worked with them, Josette fell in love with him. She
+            was mad when Joshua always tried to distance himself from everyone else. But in the end, Don suggested to go extra miles
+            to help Joshua even though their deal was completed. Thanks to that, the family saved Joshua and Estelle when they were
+            gunning down by the Society soldiers.\n
+        During the Orbal Shutdown Phenomenon, the Bobcat crashed on the Liber Ark. The whole family except Josette managed to escape
+            the Society soldiers. Estelle team later found her and help her save the family.\n
+        While she knows Joshua loves Estelle, she always hints that she is always be there for Joshua in romantic relationship.\n\n
+        In the 3rd, she was sealed inside the stone and located in Bobcat inside the Phantasma. At this time, the family was forgiven
+            and rewarded by Queen Alicia. The Capua bandit turned to legit business, sky delivery. In this game, we also learn
+            a few more things about Josette, that she is a kind person, good at cooking and taking care of others.
+    </string>
 
     <string name="char_joshua">
         Joshua Bright, formerly known as Joshua Astray, is the secondary protagonist of Trails in the Sky FC and SC.\n
@@ -103,15 +128,81 @@
             find Renne.
     </string>
 
-    <string name="char_julia"></string>
+    <string name="char_julia">
+        Julia Schwarz is the First Lieutenant of the Royal Army of Liberl. She is promoted to the rank of Captain.\n
+        She is a talented swordwoman who was trained by Cassius Bright when he was an instructor. She was a friend and rival
+            of Kanone Amalthea back in the Royal Academy days.\n
+        She is a loyal servant and friend of Princess Klaudia. Her bird pet Sieg is a friend and a long distance communication bird
+            between her and Klaudia.\n\n
+        In FC, she received the message from Klaudia about the evil scheme of Mayor Dalmore. Thanks to that, she captured Dalmore
+            by Arseille at the sea.\n
+        Before the coup, Julia and the Royal Army fought against the Intelligence Division and tried to protect Klaudia but failed.
+            After the clash, only her and few members escaped unnoticed. She sought help from Estelle and Joshua. Thanks to their
+            cooperation, Bracer Guild also lent a hand to help them free the Erbe Royal Villa and save Klaudia.\n
+        During the coup, she led the Royal Army to gather attention while bracers sneaked into Grancel to save the Queen and defeat
+            colonel Richard.\n\n
+        In SC, she was associated with Kevin Graham due to the mystery of Grancel\'s underground. She has a good relationship
+            with Mueller Vander which makes Olivier teases them occasionally but only Mueller understood the circumstance and got mad
+            at Olivier.\n\n
+        In the 3rd, Julia was promoted to Captain but she didn\'t consider herself worthy enough for the title. Thanks to Mueller,
+            she gave up on thinking too hard about it and motivated to work hard to serve Klaudia and the country like how she always be.
+    </string>
 
-    <string name="char_kanone"></string>
+    <string name="char_kanone">
+        Kanone Amalthea is secretary at RA Research and the former Captain of the Intelligence Division of the Royal Army of Liberl.\n
+        Kanone has a sadistic personality, strict, and sly.\n
+        The only person she shows her greatest respect is Colonel Richard.\n
+        In FC during the coup, she was defeated by Klaudia, Estelle, and Schera. But after the coup, she and several members escaped
+            and planned to save Colonel Richard in the future.\n
+        In SC, she kidnapped Duke Dunan and took him inside a tank to attack Grancel directly. Using the gospel to shutdown all
+            orbal devices in Grancel except the tank made her almost invincible until Kevin used Dalmore\'s artifact to destroy
+            the gospel.\n
+        She and the rest of the division were captured in the end. She refused to cooperate with Julia about any information about
+            the Society despite being toyed by them. Her stubbornness ended when Cassius let Richard meet her to let her understand
+            that he no longer desires to walk on the path he used to walk anymore and is looking for his new path.\n
+        During the attack of Society at Grancel, she led the Intelligence Division to fight against the Society army while Richard
+            was at the Castle to aid Estelle\'s team against the Enforcers.\n\n
+        In the 3rd, she retires and becomes the co-founder of RA Research with Richard.
+    </string>
 
-    <string name="char_karna"></string>
+    <string name="char_karna">
+        Karna ia a bracer of Ruan in Liberl.\n
+        In FC, she was attacked by the Intelligence Division because of the 10 millions Mira her client was holding.\n
+        Estelle team met her again during the Grancel tournament.\n
+        She has been one of the bracers that supports Estelle team in the series.
+    </string>
 
-    <string name="char_kevin"></string>
+    <string name="char_kevin">
+        Kevin Graham, was known as Heretic Hunter and later the Thousand-Hand Guardian, is a knight of the Gralsritter of
+            the Septian Church and occupies the seat of Fifth Dominion.\n
+        He first appears in SC as a wandering priest. He helped Estelle when she was on the brink of collapse due to Joshua left
+            her. While working as a priest, he was investigating the Society and an ally to Estelle team.\n
+        He was the one who executed Georg with an arrow made from the Salt Pale that turned over half of North Ambrian into salt.\n\n
+        He is the main character of the 3rd. In this game, we learn that his father was a man who already had a family. His father
+            provided support for him and his mother until one day he abandoned them, which caused his mother forced Kevin to commit
+            double suicide with her. As a child, he was frightened, escaped, left his mother to kill herself, and had nowhere to go or return until he met Rufina
+            Argent, a nun of the Church.\n
+        Kevin worked hard to become Knight so he could protect what are important to him and made Rufina proud. However, jaegers attacked
+            his orphanage. He swiftly defeated them except the last one taking Ries Argent as hostage. The last jaegar was panicked
+            when he noticed Kevin so he grabbed the Magic Spear of Loa under the orphanage that turned him into a powerful monster. Kevin was not
+            powerful enough to defeat the monster, but when the mosnter tried to hurt Ries. His stigma manifested and absorbed the power
+            of the Demon Spear of Loa, and killed the monster. However, his power went berserk, and it took Rufina\'s life to return
+            him to normal.\n
+        The only way Kevin could think to redeem himself is to work himself to dead under the name of Heretic Hunter.\n
+        The Phantasma abducted people who have relationship with him in order to fulfill his wish, that is to punish him.\n
+        Thanks to Ries and his companions, he finally ended his nightmare by defeating the Lord of Phantasma, the ghost of Rufina.\n
+    </string>
 
-    <string name="char_kilika"></string>
+    <string name="char_kilika">
+        Kilika Rouran, known as Crimson Swallow, is the aide of president Samuel Rocksmith and office manager of
+            the Rocksmith Agency of Calvard. She worked as receptionist of Bracer Guild at Zeiss in Liberl.\n
+        She is a beautiful woman who works extremely efficient.\n
+        In SC, we learn that she is the daughter of Master Ryuga of the Taito School (master of Zin Vathek and Walter).\n
+        She was Walter\'s lover when he was her father\'s student. After the dead of her father, their relationship ended.
+            She decided to close the school and go travelling across the continent to find Walter in the hope of bringing him back.\n
+        After SC, she was asked to return to Calvard and worked for Rocksmith. She was hesitated, but having a few talks with Zin made her
+            make up her mind to accept the offer.
+    </string>
 
     <string name="char_klaudia">
         Klaudia von Auselse, her other name is Kloe Rinz, is the granddaughter of Alicia von Auslese, and heir to the throne of Liberl Kingdom.\n
@@ -135,50 +226,95 @@
         In the 3rd, she confessed her feeling to Joshua and was refused. However, she felt refresh and admitted her defeat.
     </string>
 
-    <string name="char_klaus"></string>
+    <string name="char_klaus">
+        Mayor Klaus is the mayor of the city of Rolent in Rolent region, Liberl.\n
+        In FC, his house was attacked by the Capua bandits. No harm happened to him and anyone in the house but his
+            gift for Queen Alicia was stolen. He asked Estelle and Joshua to help him retrieve it back.
+    </string>
 
-    <string name="char_kurt"></string>
+    <string name="char_kurt">
+        Kurt Nardin, known as the Artful Tactician, is a bracer from Liberl.\n
+        In FC, he was the one who sent the gospel to Cassius Bright but ended up in the hand of Estelle. He was attacked
+            by the Intelligence Division for knowing the secret. He was alive because he was a bracer. Killing him may alert
+            the entire Bracer Guild, and also Loewe tried to avoid needless bloodshed. As the result, he was brainwashed to
+            erease his memory about the coup and anything related to them.\n
+        In SC, he was the instructor who trained Estelle and Anelace at Le Locle training ground. He was promoted to A rank bracer.
 
-    <string name="char_kyle"></string>
+    </string>
 
-    <string name="char_lechter"></string>
+    <string name="char_kyle">
+        Kyle Capua is a member of the Capua family.\n
+        He was an Erebonian noble until the family lost everything but the Bobcat to a corrupt deal.\n
+        In FC, he rescued Josette and other members when they were cornered by Estelle team. He and the family were
+            arrested by Colonel Richard until SC.\n
+        Since SC, Kyle and the family have been allies with Liberl and Estelle team.
+    </string>
 
-    <string name="char_leonhardt"></string>
+    <string name="char_lechter">
+        Lechter Arundel is a commissioned major of the Intelligence Division of the Imperial Army of Erebonia. He is a member
+            of the Ironbloods.\n
+        He was a student and student president of Jenis Royal Academy in Liberl. He had a carefree nature that brought headaches
+            to people around him. He was playing a fool most of the time, but his talent was what made him the student president.\n
+        Kloe initially did not have a good impression of him. However, when Kloe had a quarrel with her roommate, Lecther gave her
+            some advices to help her settle down the incident happily.\n
+        It was said that he suddenly left the academy one day without anyone noticed.\n
+        Klaudia met him again when he was with Giliath and learned the truth about him.
+    </string>
 
-    <string name="char_lila"></string>
+    <string name="char_leonhardt">
+        Leonhardt, his real name is Loewe. His fake name is Lorence Belgar. He is called Bladelord, Enforcer No. II of Ouroboros.\n
+        He was a resident of Hamel Village until the tragedy happened. In order to save Joshua, he and Joshua joined the Society and climbed
+            to the rank of Enforcer.\n
+        In FC, he used Weissmann\'s manipulative power to hypnotize Kurt Nardin to interrogate him.\n
+        In Ruan, he saved the Mercia orphans and Teresa from the burning orphanage. Agate had confronted him directly when
+            he was chasing the members of Intelligence Division. Leonhardt noticed Agate weakness and pointed out his sword
+            swinging aimlessly, which made Agate madder. According to the orphans, Leonhardt was at Jenis Academy festival but Joshua
+            could not find him.\n
+        During the coup, Queen Alicia realized Lorence was a survivor of Hamel from their conversation.\n\n
+        In SC, Leonhardt mostly worked behind the scene until Ragnard was manipulated by Weissmann and was going to cause havoc to where ever
+            it went. In order to minimize the damage, he was on its head trying to stop it breathing fire and cause damange in Bose. It is
+            unknown how much damage he managed to reduce but no one lost their life. When Agate\'s hometown was burned again after
+            the Hundred Days War, he was chasing after Leonhardt and fought him. Leonhardt found Agate pathetic and was going to kill him
+            until Tita jumped out to stop him. After the dragon incident, Leonhardt visited Agate\'s village to pay his respect for
+            those who lost their lives in the Hundred Days War. General Morgan, Agate, and Tita were there but no fight happened or anyone
+            intended to fight because they do not want to disrespect the deads.\n
+        At the end of SC, Joshua disarmed Leonhardt in a one-to-one fight. Leonhardt revealed his purpose of joining the Gospel plan
+            was to test if humans were capable to improve themselves or kept being foolish, and to determine if Karin\'s dead
+            was worth it. After the fight, he expressed his plan to retire from the Society and became bracer like how he used to wish for.
+            He was struck by Weissmann and was unconscious. When Weissmann fused with Aureole and almost killed Estelle team, Leonhardt used
+            his sword, Kernviter, which was bestowed to him by the Grandmaster to break through Weissmann\'s invincibility and caused damage
+            to him. However, Leonhardt received a mortal damage which later killed him. Before he died, he asked Estelle to take care
+            of Joshua.\n
+        In the 3rd, he was the servant of Lord of Phantasma. Before his body disappeared, Joshua told him that he placed Kernviter
+            next to Karin\'s grave and he had move on to live. Leonhardt was glad to hear that and died in peace.
 
-    <string name="char_luciola"></string>
+    </string>
 
-    <string name="char_lugran"></string>
+    <string name="char_lila">
+    </string>
 
-    <string name="char_maybelle"></string>
+    <string name="char_luciola">
+    </string>
 
-    <string name="char_morgan"></string>
+    <string name="char_lugran">
+    </string>
 
-    <string name="char_morris"></string>
+    <string name="char_maybelle">
+    </string>
 
-    <string name="char_mueller"></string>
+    <string name="char_morgan">
+    </string>
 
-    <string name="char_murdoch"></string>
+    <string name="char_morris">
+    </string>
+
+    <string name="char_mueller">
+    </string>
+
+    <string name="char_murdoch">
+    </string>
 
     <string name="char_olivier">
-        Olivert Reise Arnor, also known in diguise as the bard Olivier Lenheim, is the oldest son of Emperor Eugent III and the prince of Erebonia.\n
-        Despite not being the crown prince, he still works hard to improve his country. He became aware of the growing danger
-            of Giliath Osborne and went to seek Caissus Bright\'s help to have an arranged marriage between himself and Princess
-            Klaudia.\n\n
-        In FC, he first appears as an idiot. Playing bard and singing songs to break any tensions. He followed Estelle party like
-            it was a natural thing to do. He had been a major help for Estelle and her friends since the beginning of the series.
-            Scherazard hit the mark when she was suspicious about Olivier being an Erebonian spy, but she did not know he was the prince.\n\n
-        In SC, he learnt that Estelle returned after her training so he came to meet and joined her party again.\n
-        He had a strange rivalry relationship with Enforcer No. X Bleublanc about their views of love.\n
-        He left the party and came back to Erebonia before Erebonia army was breaching through Hanken Gate due to the Orbal Shutdown
-            Phenomenon that affected south Erebonia. He met the party again as Olivert Reise Arnor and requested princess Klaudia to
-            bring Erebonian army to Liberl soil to help Liberl solve the incident. Thanks to Princess Klaudia\'s negotiation and plots behind
-            the scene with Cassius Bright, Olivert managed to halt the advancement for a limited period of time.\n
-        He quickly joined the party again as Olivier with his bodyguard Mueller to help the party solve the incident.\n\n
-        In the 3rd, Olivier showed discomfort about Giliath. He deemed Giliath was too dangerous due to his aggressive nature that could led
-            Erebonia to the civil war with the Erebonian nobles.\n
-        Before Olivier left the Phantasma, he asked Schera to consider his proposal which shocked Estelle.
     </string>
 
     <string name="char_philip"></string>
