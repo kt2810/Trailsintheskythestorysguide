@@ -291,27 +291,92 @@
     </string>
 
     <string name="char_lila">
+        Lila is the head maid of Mayor Maybelle\'s household in Bose. She is a maid and a good friend of Maybelle.\n
+        She was born and raised in the Leman State, and her real name was Raini. She and her parents were on vacation
+            in Bose just before the Hundred Days War happened. She lost both her parents and was in the state of shock that
+            she became mute until Maybelle came to her and gave her the name Lila because she did not know Lila\'s real name.\n
+        In SC, during the attack of Ragnard, Lila protected Maybelle and suffered injuries. But she recovered and worked with
+            Maybelle like usual.\n
+        One week after the dragon incident, Estelle and co. received a quest from an old woman to look for a girl named Raini. Not
+            knowing Raini was Lila, Estelle showed the picture to her which made Lila freaked out and denied knowing the girl in the
+            picture. Maybelle later confirmed that Lila was Raini and told them what happened to her in the Hundred Days War. The reason
+            Lila tried to hide her identity was because she was afraid that she had to come back home while she had decided to devote
+            herself for Maybelle. In the end, it was up to Lila to decide her future, she met the old lady who was her aunt. Her aunt
+            was glad to see her still alive and well.
     </string>
 
     <string name="char_luciola">
+        Luciola, known as Bewitching Bell, is Enforcer No. VI of Ouroboros.\n
+        She was born to a family of ancient magical illusion practitioners. It is unknown if she left the family or was
+            abandoned. She met Mr. Harvy who recruited her to become a dancer for his circus. She and Harvy met Scherazard
+            when she was an orphan theft and recruited her.\n
+        In S.1190, Luciola and Schera became acquaintances with Estelle.\n
+        In S.1194, Luciola\'s twisted love made her murder Mr. Harvey by pushing him off a cliff because he was planning to
+            sell the circus and brought his debt onto himself alone. She abandoned Schera for her own safety but that left
+            Schera distraught until Cassius invited her to become a bracer.\n\n
+        In SC, Luciola was an enforcer of the Gospel Plan. With her illusion magic, she causes mists cover the entire Rolent and
+            made some people fell asleep to have their happy dreams and never woke up. Estelle and co. were all affected by the
+            illusion except Schera. After the fight between them, Luciola told Schera to find her if she wanted to know the truth.\n
+        On Liber Ark, Luciola lost the fight and told everything to Schera. She later jumped of Liber Ark to commit suicide and die
+            the same way Mr. Havey did. Schera used her whip to grab her hand. Luciola said the reason she joined the Gospel Plan was
+            to meet Schera again and wanted to know if she was happy with the path she chose. Luciola was satisfied and cut Schera\'s whip and fell.\n
+        In the 3rd, Estella and co. fought Luciola again due to Lord of Phantasma\'s influence. Schera asked if that meant Luciola was alive after
+            the fall. However, the Luciola of Phantasma was just a copy of her, whether she was alive or not, she may know or not.\n
+        Her fate remained unknown.
+
     </string>
 
     <string name="char_lugran">
+        Lugran is the receptionist at Bose branch of the Bracer Guild.
     </string>
 
     <string name="char_maybelle">
+        Maybelle is the mayor of City of Bose and the owner of the local Anterose Restaurant.\n
+        Her father was the previous mayor of the city. She is loved and respected by Bose residents.\n
+        Her father was a good friend with General Morgan, making him relatively friendly toward her.\n
+        She had an awkward relationship with Agate due to a past incident. During the Hundred Days War, Agate
+            was insulting her father because he was mad when her father chose to abandon his village. She did not
+            understand the circumstance at that time, seeing her father was insulted so she slapped him.
+        There was no hard feeling but they were uncomfortable meeting each other.
     </string>
 
     <string name="char_morgan">
+        Morgan, known as the God of War, is the former Chief of Staff of Royal Army of Liberl.\n
+        Morgan is best known and praised for stopping the invasion of Erebonia during the Hundred Days War. In order
+            to repel Liberl\'s counter-attack, Erebonia bombarded the City of Rolent which killed Lena, Cassius\'s wife and
+            Estelle\'s mom. Her dead also caused Bright to retire from army and became a bracer. Morgan grieved for the
+            casualties of the war and never managed to accept Cassius\' retire. He ended up holding a grudge against bracers
+            and bracer guild.\n
+        He was delighted when Cassius returned to the army after the coup. After a period of time, he finally retired and entrusted
+            everything to newly-promoted General Bright.
     </string>
 
     <string name="char_morris">
+        Morris Dalmore was the former mayor of Ruan. He is currently the owner of a Sepith shop in Grancel\'s West District in SC.\n
+        In S.1202, he had gone a trip to Calvard and wounded up with a massive debt after making some bad financial deadls. In
+            order to pay some of them off, he secretly used the town\'s money. Morris and his assistant, Gilbert, were brainwashed
+            by Captain Lorence Belgar.\n
+        In his altered state, he planned to sell a luxury villas along the coast with high price to wealthy nobles like Duke Dunan
+            to pay the rest of his debt. The obstacle to his plan was Mercia Orphanage, as Matron Teresa refused to sell her land.
+            As the result, he caused an arson to destroy the orphanage.\n
+        His plan was revealed and he was arrested in FC. When he was out of jail, he used what he had left to open a shop that trades
+            mira for sepith, hoping to save enough money to rebuild the Dalmore Family.
     </string>
 
     <string name="char_mueller">
+        Mueller Vander is a major in the Imperial Army of Erebonia. He is the childhood friend and companions of Prince Olivert Reise Arnor.\n
+        In SC, he helped Estelle and co. meet with ambassador Davil Crainagh to learn about the Society.\n
+        After the attempt to have Erebonia army in Liberl was delayed, he and Olivier provided support to help Liberl solve the
+            Orbal Shutdown Phenomenon and the Liber Ark.\n
+        In the 3rd, he helped Julia, who was not ready to accept the Captain position, to made up her mind and decided what she
+            should work for.
     </string>
 
     <string name="char_murdoch">
+        Murdoch is the factory chief of ZCF and mayor of city of Zeiss.\n
+        He is a good friend and supporter of Estelle and co.. After he learnt about the abduction incident of professor Albert,
+            he readily helped Estelle and co. with everything he got.\n
+        He has a habit of having stomach pain or praying at the Church when there are headache issues in the city.
     </string>
 
     <string name="char_olivier">
@@ -334,13 +399,74 @@
         Before Olivier left the Phantasma, he asked Schera to consider his proposal which shocked Estelle.
 </string>
 
-    <string name="char_philip"></string>
+    <string name="char_philip">Phillip Runall. known as Demon Commander and Sword Fox,
+        is a former captain of the Royal Guard and current aide of Duke Dunan von Auseles</string>
 
-    <string name="char_renne"></string>
+    <string name="char_renne">
+        Renne Hayworth, known as Angel of Slaughter, is Enforcer No. XV of the Society.\n\n
+        Chilhood:\n
+        She was a resident of Crossbell. When she was young, her parents were in debt due to the aggressive growth of
+        Crossbell\'s trading market, which was impossible for them to run an honest business. For Renne\'s safety,
+        her parents sent her to live with relatives in Calvard.\n
+        Years later, her parents finally paid off their debts. They came to Calvard to get Renne back home, but the
+        house of the relatives were victims among many arsons and organised burglaries which were common in Calvard
+        during mid S.1990s. The authority could not confirm the victims because all of the bodies were burnt down badly.
+        Because Renne was never found, her parents assumed that she was dead.\n
+        Her parents were thinking about committing double suicide after they thought Renne was dead. But they found out that
+        Renne\'s mother was pregnant, which reinvigorated their willpower to live.\n
+        As for Renne, she was kidnapped by a cult. After a period of time, she was forced to become child prostitute at a brothel
+        called the Paradise.\n
+        Going through countless cruelty, Renne was later saved by Joshua and Leonhardt when they were destroying the Paradise.\n
+        Renne later became a member of the Society and climbed to the rank of Enforcer. At some point, she saw her parents with a new baby.
+        Renne could have done something she would regret later, so Leonhardt stopped her and told her it was not worth it.\n
+        Since then, she has the mindset that she is not wrong, capable of obtaining everything she wants. For short, she believes
+        with her talents, she can do anything and become selfish.\n\n
+        In SC, Renne is very stubborn but she likes Estelle at a certain degree. After she lost her battle with Estelle team, Renne
+        started to see the reality but she was still very stubborn to admit she was wrong.\n\n
+        In the 3rd, Renne first appeared when she was sleeping. Being hugged by Estelle, she accidentally admitted that she liked
+        the warmness and smell from Estelle. But she quickly gained conscious and jumped out of Estelle\'s arm. A fight almost broke
+        out because Ries Argent did not know the actual situation and pointed out that Renne was very selfish. But Tita stopped both
+        side, she did not want anyone to get hurt and pointed out there were more important things to do. So Renne and Ries held their
+        temper.\n
+        At the end of the 3rd, Renne was upset because she could not understand why everyone was leaving each other while they
+        cared for each other so much. Estelle told her that there were things they have to do. Renne was not pleased because
+        that means they might never meet each other again for all kinds of reasons. Estelle replied to her, everyone has to leave, so
+        make sure to make a smile while leaving so that will become the strength to be alive. Renne again was not completely satisfied
+        but she stopped asking question.\n
+        Taking her chance, Estelle asked if Renne wanted to become her family, her sister. Renne, again, was stubborn and denied.
+        She provoked Estelle, saying things like keep trying and we\'ll see. She yelled at Estelle and Joshua that she hated them,
+        but she immediately whispered to herself that she also loved them so much, then she ran out of Phantasma.\n\n
+        Her current position is at Crossbell.
+    </string>
 
-    <string name="char_ries"></string>
+    <string name="char_ries">
+        Ries Argent is a squire of the Gralsritter of the Septian Church. She is assigned to support Kevin Graham, who has
+        been her friend since childhood. Her older sister is Rufina Argent.\n\n
+        After Rufina\'s dead (read Kevin\'s page), Kevin kept a distance to Ries. Ries was upset with Kevin\'s change without
+        knowing what happened at the end of the raid at her orphanage.\n\n
+        Ries was officially become Kevin\'s squire at the beginning of the 3rd. She has intense interest in food and is a serious
+        person.\n
+        When the team visit the orphanage in Phantasma, Kevin revealed the story about Rufina\'s dead. Ries was angry, not because
+        Kevin killed her sister but because Kevin was shouldering the responsibility alone all this time.\n
+        When the team learns the true identity of the Lord of Phantasma, who takes form of Rufina, Ries was sent to Gehenna. Kevin
+        jumped into the bottom of Gehenna with her. When they were trying to escape Gehenna, Ries saw a lot of bad things happened
+        in Kevin\'s life manifested as evil creatures of Gehenna which made her feel sad for Kevin even more.\n
+        At the end of the final battle, Rufina asked Kevin to kill fast before the Lord recovered. Kevin was hesitated because
+        that meant he had to kill Rufina again. But this time, Ries came to his side and asked him to help Rufina rest in peace
+        forever. She said she would carry the responsibility with Kevin, which gave him the courage to destroy his nightmares
+        forever.
+    </string>
 
-    <string name="char_rufina"></string>
+    <string name="char_rufina">
+        Rufina Argent, known as Thousand Arms, was a Knight of the Gralsritter of the Septian Church. She is the older
+        sister of Ries Argent.\n
+        After Kevin left her mother and was on the street, Rufina saved him and sheltered him at Aster House orphanage.\n
+        She was a patient and gentle person. She was a very capable person that Ein Selnate admitted that she never resorted
+        to use her Stigma because Rufina was her aide.\n
+        Rufina was killed by Kevin by accident at the end of the raid at Aster House. After her dead, Kevin became the fifth Dominon
+        and had his alias as "heretic Hunter" and accepted a lot of dirty jobs to punish himself.\n\n
+        In the 3rd, Lord of Phantasma took the form of Rufina to fulfish Kevin\'s desire, that is to let Rufina punish him.
+    </string>
 
     <string name="char_scherazard">
         Scherazard Harvey, known as the Silver Streak, is a bracer of Liberl.\n
@@ -360,7 +486,9 @@
         At the end of the 3rd, it seemed there was a romantic relationship between her and Olivier.
     </string>
 
-    <string name="char_teresa"></string>
+    <string name="char_teresa">
+        Teresa is the matron of Mercia Orphanage in Ruan.
+    </string>
 
     <string name="char_tita">
         Tita Russell is the granddaughter of Albert Russell. She lives with him in Zeiss.\n
@@ -385,7 +513,13 @@
             for the people.
     </string>
 
-    <string name="char_walter"></string>
+    <string name="char_walter">
+        Walter, known as Direworlf, is Enforcer No. VIII of Ouroboros.\n
+        He was a student of Taito school martial art and boyfriend of his master\'s daughter, Kilika Rouran. He left the school
+        after he had a dead battle with his master because Walter was obsessed with the "Murderous Fist" path of martial arts.\n
+        In SC, he was responsible to cause Earthquake in Zeiss.\n
+        After the collapse of Liber Ark, Walter managed to escape on the Glorious while shedding a single tear for Leonhardt\'s dead.
+    </string>
 
     <string name="char_zin">
         Zin Vathek, known as the Immovable, is an A=rank bracer of Calvard. He is a fighter of Taito martial art.\n
